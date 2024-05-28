@@ -5,7 +5,7 @@
 
 
 <p align="left">Atualmente sou estudante de Ciencias da Computação na Anchieta.
-Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java, JavaScript, css. 
+Me interesso tanto por front quanto por back-end, e minhas principais linguagens são JavaScript, css. 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 

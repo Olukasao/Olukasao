@@ -4,9 +4,17 @@
 
 
 
-<p align="left">Atualmente sou estudante de Ciencias da Computação na Anchieta.
-Me interesso tanto por front quanto por back-end, e minhas principais linguagens são JavaScript, css. 
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+<p align="left">👨‍💻 About Me
+
+Olá! Eu sou Lucas Soares, estudante de Ciências da Computação na Faculdade Anchieta, apaixonado por tecnologia, design e criação de soluções digitais.
+
+Tenho interesse em desenvolvimento front-end e back-end, com experiência em JavaScript, React, Vite, HTML, CSS, integração com APIs, Git, Linux, PM2, Nginx e deploy de aplicações. Gosto de transformar ideias em sistemas funcionais, interfaces modernas e ferramentas que realmente ajudam no dia a dia.
+
+Também tenho uma forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais e identidade visual. Essa combinação entre design e programação me ajuda a criar projetos mais completos, bonitos e eficientes.
+
+Além da área de tecnologia, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na KollectBR, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo e gestão de produtos.
+
+Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
 
 
 <h3 align="left">Connect with me!</h3>

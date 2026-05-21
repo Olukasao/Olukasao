@@ -11,7 +11,7 @@ Tenho interesse em desenvolvimento front-end e back-end, com experiência em Jav
 
 Também tenho uma forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais e identidade visual. Essa combinação entre design e programação me ajuda a criar projetos mais completos, bonitos e eficientes.
 
-Além da área de tecnologia, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na KollectBR, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo e gestão de produtos.
+Além da área de tecnologia, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na Kollect, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo e gestão de produtos.
 
 Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
 

@@ -27,21 +27,111 @@ Essa combinação entre programação, design, marketing e empreendedorismo me p
 
 <h3 align="left">My Stack</h3>
 
+<h4 align="left">💻 Desenvolvimento Front-end</h4>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="JavaScript" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="28" alt="Vite" />
+</div>
+
+<br>
+
+<h4 align="left">⚙️ Back-end, Banco de Dados e Integrações</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="C" />
+</div>
+
+<br>
+
+![APIs](https://img.shields.io/badge/API%20Integration-000?style=for-the-badge&logoColor=A020F0)
+![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2&logoColor=A020F0)
+![Deploy](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logoColor=A020F0)
+
+<br>
+
+<h4 align="left">🖥️ Infraestrutura, Servidores e Versionamento</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="GitHub" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="28" alt="Nginx" />
+</div>
+
+<br>
+
+![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge&logoColor=A020F0)
+![FTP](https://img.shields.io/badge/FTP-000?style=for-the-badge&logoColor=A020F0)
+![VPS](https://img.shields.io/badge/VPS%20%2F%20VM-000?style=for-the-badge&logoColor=A020F0)
+![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logoColor=A020F0)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=A020F0)
+
+<br>
+
+<h4 align="left">🎨 Design, UI/UX e Marketing</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="28" alt="Photoshop" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="28" alt="After Effects" />
+</div>
+
+<br>
+
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=A020F0)
+![After Effects](https://img.shields.io/badge/After%20Effects-000?style=for-the-badge&logo=adobeaftereffects&logoColor=A020F0)
+![Sony Vegas](https://img.shields.io/badge/Sony%20Vegas-000?style=for-the-badge&logoColor=A020F0)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=A020F0)
+![UI Design](https://img.shields.io/badge/UI%20Design-000?style=for-the-badge&logoColor=A020F0)
+![Branding](https://img.shields.io/badge/Branding-000?style=for-the-badge&logoColor=A020F0)
+![Marketing Digital](https://img.shields.io/badge/Marketing%20Digital-000?style=for-the-badge&logoColor=A020F0)
+
+<br>
+
+<h4 align="left">🧊 3D, Impressão 3D e Modelagem</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="28" alt="Blender" />
+</div>
+
+<br>
+
+![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender&logoColor=A020F0)
+![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-000?style=for-the-badge&logoColor=A020F0)
+![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-000?style=for-the-badge&logoColor=A020F0)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-000?style=for-the-badge&logoColor=A020F0)
+![Modelagem 3D](https://img.shields.io/badge/Modelagem%203D-000?style=for-the-badge&logoColor=A020F0)
+
+<br>
+
+<h4 align="left">🚀 Áreas que conecto no dia a dia</h4>
+
+![Front-end](https://img.shields.io/badge/Front--end-000?style=for-the-badge&logoColor=A020F0)
+![Back-end](https://img.shields.io/badge/Back--end-000?style=for-the-badge&logoColor=A020F0)
+![Design Gráfico](https://img.shields.io/badge/Design%20Gr%C3%A1fico-000?style=for-the-badge&logoColor=A020F0)
+![Marketing](https://img.shields.io/badge/Marketing-000?style=for-the-badge&logoColor=A020F0)
+![E-commerce](https://img.shields.io/badge/E--commerce-000?style=for-the-badge&logoColor=A020F0)
+![Importação](https://img.shields.io/badge/Importa%C3%A7%C3%A3o-000?style=for-the-badge&logoColor=A020F0)
+![Colecionáveis](https://img.shields.io/badge/Colecion%C3%A1veis-000?style=for-the-badge&logoColor=A020F0)
 
 
 

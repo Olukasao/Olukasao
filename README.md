@@ -7,7 +7,7 @@ Olá! Eu sou Lucas Soares, estudante de Ciências da Computação na Faculdade A
 
 Tenho interesse em desenvolvimento front-end e back-end, com experiência em JavaScript, React, Vite, HTML, CSS, integração com APIs, Git, Linux, PM2, Nginx e deploy de aplicações. Gosto de transformar ideias em sistemas funcionais, interfaces modernas e ferramentas que realmente ajudam no dia a dia.
 
-Atuei como T.I na MK Academy, em formato PJ, prestando suporte e atendendo diferentes localizações. Nessa experiência, trabalhei com manutenção de computadores, suporte técnico, configuração de sistemas, resolução de problemas e criação de soluções internas para melhorar a operação da empresa.
+Atuei como T.I na MK Academy, em formato PJ, prestando suporte e atendendo diferentes filiais. Nessa experiência, trabalhei com manutenção de computadores, suporte técnico, configuração de sistemas, resolução de problemas e criação de soluções internas para melhorar a operação da empresa.
 
 Também tive experiência na área de marketing na Ortobom, atuando com criação de conteúdos, peças visuais e materiais para divulgação.
 

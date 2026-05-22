@@ -133,6 +133,12 @@ Essa combinação entre programação, design, marketing e empreendedorismo me p
 ![Importação](https://img.shields.io/badge/Importa%C3%A7%C3%A3o-000?style=for-the-badge&logoColor=A020F0)
 ![Colecionáveis](https://img.shields.io/badge/Colecion%C3%A1veis-000?style=for-the-badge&logoColor=A020F0)
 
+<h4 align="left">🌎 Idiomas</h4>
+
+![Português Nativo](https://img.shields.io/badge/Portugu%C3%AAs%20Nativo-000?style=for-the-badge&logoColor=A020F0)
+![Inglês Avançado](https://img.shields.io/badge/Ingl%C3%AAs%20Avan%C3%A7ado-000?style=for-the-badge&logoColor=A020F0)
+![Espanhol Básico](https://img.shields.io/badge/Espanhol%20B%C3%A1sico-000?style=for-the-badge&logoColor=A020F0)
+
 
 
 <picture>

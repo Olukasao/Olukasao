@@ -5,16 +5,21 @@
 
 
 <p align="left">
-Olá! Eu sou Lucas Soares, estudante de Ciências da Computação na Faculdade Anchieta, apaixonado por empreendimento, tecnologia, design e criação de soluções digitais.
+Olá! Eu sou Lucas Soares, estudante de Ciências da Computação na Faculdade Anchieta, apaixonado por empreendedorismo, tecnologia, design e criação de soluções digitais.
 
 Tenho interesse em desenvolvimento front-end e back-end, com experiência em JavaScript, React, Vite, HTML, CSS, integração com APIs, Git, Linux, PM2, Nginx e deploy de aplicações. Gosto de transformar ideias em sistemas funcionais, interfaces modernas e ferramentas que realmente ajudam no dia a dia.
 
-Também tenho uma forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais e identidade visual. Essa combinação entre design e programação me ajuda a criar projetos mais completos, bonitos e eficientes.
+Atuei como T.I na MK Academy, em formato PJ, prestando suporte e atendendo diferentes localizações. Nessa experiência, trabalhei com manutenção de computadores, suporte técnico, configuração de sistemas, resolução de problemas e criação de soluções internas para melhorar a operação da empresa.
 
-Além da área de tecnologia, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na Kollect, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo e gestão de produtos.
+Também tive experiência na área de marketing na Ortobom, atuando com criação de conteúdos, peças visuais e materiais para divulgação.
 
-Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
+Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos, como restaurantes, Hokaah Like, Dreams Car, times competitivos no cenário gamer e influenciadores da Twitch.
 
+Tenho forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais, identidade visual e comunicação visual. Domino ferramentas como Figma, Photoshop, After Effects e Sony Vegas, que utilizo para criar artes, vídeos, interfaces, campanhas e materiais profissionais.
+
+Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na Kollect, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos e posicionamento de marca.
+
+Essa combinação entre programação, design, marketing e empreendedorismo me permite desenvolver projetos mais completos, bonitos, funcionais e eficientes. Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
 
 <h3 align="left">Connect with me!</h3>
 

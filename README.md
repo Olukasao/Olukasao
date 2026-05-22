@@ -11,19 +11,41 @@ Atuei como T.I na MK Academy, em formato PJ, prestando suporte e atendendo difer
 
 Também tive experiência na área de marketing na Ortobom, atuando com criação de conteúdos, peças visuais e materiais para divulgação.
 
-Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos, ja fiz trabalhos para Hokaah Like, Dreams Car, times competitivos no cenário gamer e influenciadores da Twitch e restaurantes.
+Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos, já fiz trabalhos para Hokaah Like, Dreams Car, times competitivos no cenário gamer, influenciadores da Twitch e restaurantes.
 
 Tenho forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais, identidade visual e comunicação visual. Domino ferramentas como Figma, Photoshop, After Effects e Sony Vegas, que utilizo para criar artes, vídeos, interfaces, campanhas e materiais profissionais.
 
-Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na Kollect, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos, Importação e posicionamento de marca.
+Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na Kollect, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos, importação e posicionamento de marca.
 
 Essa combinação entre programação, design, marketing e empreendedorismo me permite desenvolver projetos mais completos, bonitos, funcionais e eficientes. Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
+</p>
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A020F0&color:FFF)](mailto:lukasao.11@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A020F06&color:FFF)](https://www.linkedin.com/in/lucas-soares-gon%C3%A7alves-/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A020F0&color:FFF)](https://www.instagram.com/off_olucas/)
+[![Behance](https://img.shields.io/badge/-Behance-000?style=for-the-badge&logo=behance&logoColor=A020F0&color:FFF)](https://www.behance.net/lucassoares205)
+
+<br>
+
+<h3 align="left">🎨 Design Portfolio</h3>
+
+<table>
+  <tr>
+    <td>
+      <h4>Behance</h4>
+      <p>
+        Conheça meu portfólio com projetos de design gráfico, manipulação de imagem, identidade visual, banners, campanhas para redes sociais e materiais criativos desenvolvidos para marcas, empresas, criadores de conteúdo e projetos próprios.
+      </p>
+      <a href="https://www.behance.net/lucassoares205" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20meus%20trabalhos%20no%20Behance-000?style=for-the-badge&logo=behance&logoColor=A020F0" alt="Behance Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <h3 align="left">My Stack</h3>
 
@@ -133,22 +155,23 @@ Essa combinação entre programação, design, marketing e empreendedorismo me p
 ![Importação](https://img.shields.io/badge/Importa%C3%A7%C3%A3o-000?style=for-the-badge&logoColor=A020F0)
 ![Colecionáveis](https://img.shields.io/badge/Colecion%C3%A1veis-000?style=for-the-badge&logoColor=A020F0)
 
+<br>
+
 <h4 align="left">🌎 Idiomas</h4>
 
 ![Português Nativo](https://img.shields.io/badge/Portugu%C3%AAs%20Nativo-000?style=for-the-badge&logoColor=A020F0)
 ![Inglês Avançado](https://img.shields.io/badge/Ingl%C3%AAs%20Avan%C3%A7ado-000?style=for-the-badge&logoColor=A020F0)
 ![Espanhol Básico](https://img.shields.io/badge/Espanhol%20B%C3%A1sico-000?style=for-the-badge&logoColor=A020F0)
 
-
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
 <br><br>
-
-
 
 <details align="left">
   <summary></summary> 

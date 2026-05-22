@@ -11,7 +11,7 @@ Atuei como T.I na MK Academy, em formato PJ, prestando suporte e atendendo difer
 
 Também tive experiência na área de marketing na Ortobom, atuando com criação de conteúdos, peças visuais e materiais para divulgação.
 
-Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos, como restaurantes, Hokaah Like, Dreams Car, times competitivos no cenário gamer e influenciadores da Twitch.
+Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos, ja fiz trabalhos para Hokaah Like, Dreams Car, times competitivos no cenário gamer e influenciadores da Twitch e restaurantes.
 
 Tenho forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais, identidade visual e comunicação visual. Domino ferramentas como Figma, Photoshop, After Effects e Sony Vegas, que utilizo para criar artes, vídeos, interfaces, campanhas e materiais profissionais.
 

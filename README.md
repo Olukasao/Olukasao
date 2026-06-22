@@ -3,7 +3,7 @@
 
 
 <p align="left">
-Olá! Eu sou Lucas Soares, estudante de Ciências da Computação na Faculdade Anchieta, apaixonado por empreendedorismo, tecnologia, design e criação de soluções digitais.
+Estudante de Ciências da Computação na Faculdade Anchieta, Formado em Design Gráfico,  apaixonado por empreendedorismo, tecnologia, design e criação de soluções digitais.
 
 Tenho interesse em desenvolvimento front-end e back-end, com experiência em JavaScript, React, Vite, HTML, CSS, integração com APIs, Git, Linux, PM2, Nginx e deploy de aplicações. Gosto de transformar ideias em sistemas funcionais, interfaces modernas e ferramentas que realmente ajudam no dia a dia.
 

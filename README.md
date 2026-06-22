@@ -11,13 +11,15 @@ Atuei como T.I na MK Academy, em formato PJ, prestando suporte e atendendo difer
 
 Também tive experiência na área de marketing na Ortobom, atuando com criação de conteúdos, peças visuais e materiais para divulgação.
 
-Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos, já fiz trabalhos para Hokaah Like, Dreams Car, times competitivos no cenário gamer, influenciadores da Twitch e restaurantes.
+Além disso, trabalho como designer freelancer, desenvolvendo projetos para empresas e marcas de diferentes segmentos. Já realizei trabalhos para Hokaah Like, Dreams Car, times competitivos no cenário gamer, influenciadores da Twitch e restaurantes.
 
 Tenho forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais, identidade visual e comunicação visual. Domino ferramentas como Figma, Photoshop, After Effects e Sony Vegas, que utilizo para criar artes, vídeos, interfaces, campanhas e materiais profissionais.
 
-Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na Kollect, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos, importação e posicionamento de marca.
+Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na KollectBR, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos, importação e posicionamento de marca.
 
-Essa combinação entre programação, design, marketing e empreendedorismo me permite desenvolver projetos mais completos, bonitos, funcionais e eficientes. Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
+Também participo e realizo ações presenciais com a KollectBR, levando a marca para eventos de diferentes segmentos, como encontros automotivos, eventos gastronômicos, feiras, exposições e ativações presenciais. Essa experiência me permite desenvolver estratégias de contato direto com o público, fortalecer o relacionamento com clientes, divulgar produtos e criar uma presença de marca mais próxima, criativa e comercial.
+
+Essa combinação entre programação, design, marketing, eventos presenciais e empreendedorismo me permite desenvolver projetos mais completos, bonitos, funcionais e eficientes. Estou sempre estudando, evoluindo e buscando novas formas de usar tecnologia e criatividade para criar soluções inovadoras.
 </p>
 
 <h3 align="left">Connect with me!</h3>

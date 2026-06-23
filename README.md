@@ -15,7 +15,7 @@ Além disso, trabalho como designer freelancer, desenvolvendo projetos para empr
 
 Tenho forte experiência com design gráfico, marketing digital, manipulação de imagem, criação de banners, campanhas para redes sociais, identidade visual e comunicação visual. Domino ferramentas como Figma, Photoshop, After Effects e Sony Vegas, que utilizo para criar artes, vídeos, interfaces, campanhas e materiais profissionais.
 
-Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D e produtos do universo geek/anime. Na KollectBR, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos, importação e posicionamento de marca.
+Além da área de tecnologia e design, sou responsável pela KollectBR, uma loja focada em colecionáveis, figures, Funkos, peças 3D, personalizados e produtos do universo geek/anime. Na KollectBR, aplico conhecimentos de branding, vendas, marketing, criação de conteúdo, gestão de produtos, importação e posicionamento de marca.
 
 Também participo e realizo ações presenciais com a KollectBR, levando a marca para eventos de diferentes segmentos, como encontros automotivos, eventos gastronômicos, feiras, exposições e ativações presenciais. Essa experiência me permite desenvolver estratégias de contato direto com o público, fortalecer o relacionamento com clientes, divulgar produtos e criar uma presença de marca mais próxima, criativa e comercial.
 

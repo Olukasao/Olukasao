@@ -23,6 +23,7 @@ OUT = ROOT / "assets" / "behance-carousel.svg"
 SLIDES = [
     ("demon-slayer-1.webp", "Demon Slayer × KollectBR", "Manipulação de Imagem"),
     ("demon-slayer-2.webp", "Demon Slayer × KollectBR", "Manipulação de Imagem"),
+    ("kollectbr-logo.webp", "KollectBR", "Identidade Visual"),
     ("elfbar.webp", "Elfbar", "Manipulação de Imagem"),
     ("pod-point-1.webp", "Pod Point", "Social Media"),
     ("pod-point-2.webp", "Pod Point", "Social Media"),

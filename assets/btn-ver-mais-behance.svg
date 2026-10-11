@@ -1,33 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="244" height="52" viewBox="0 0 244 52" role="img" aria-label="Ver mais projetos no Behance">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="96" viewBox="0 0 320 96" role="img" aria-label="Ver mais projetos no Behance">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#B53CFF"/>
-      <stop offset="1" stop-color="#7A12C4"/>
+    <!-- Borda com gradiente girando -->
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#A020F0"/>
+      <stop offset=".35" stop-color="#ff7ad9"/>
+      <stop offset=".5" stop-color="#ffffff"/>
+      <stop offset=".65" stop-color="#7b5cff"/>
+      <stop offset="1" stop-color="#A020F0"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1426"/>
+      <stop offset="1" stop-color="#0b0810"/>
+    </linearGradient>
+    <linearGradient id="label" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e2c2ff"/>
     </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".16"/>
       <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="pill"><rect x="2" y="2" width="240" height="48" rx="24"/></clipPath>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <clipPath id="pill"><rect x="22" y="20" width="276" height="56" rx="28"/></clipPath>
   </defs>
   <style>
-    text { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #fff; }
-    .label { font-size: 16px; font-weight: 700; }
-    .be { font-size: 17px; font-weight: 800; fill: #A020F0; }
-    .shine { animation: sweep 3s ease-in-out infinite; }
-    @keyframes sweep { 0% { transform: translateX(-120px); } 60%, 100% { transform: translateX(270px); } }
-    .arrow { animation: nudge 1.5s ease-in-out infinite; }
-    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+    text { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .label { font-size: 16px; font-weight: 700; letter-spacing: .3px; }
+    .be { font-size: 15px; font-weight: 800; fill: #fff; text-anchor: middle; }
+    .glow { animation: pulse 3s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: .7; } }
+    .shine { animation: sweep 3.5s ease-in-out infinite; }
+    @keyframes sweep { 0% { transform: translateX(-140px); } 55%, 100% { transform: translateX(360px); } }
+    .arrow { animation: nudge 1.6s ease-in-out infinite; }
+    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(3px); } }
   </style>
+
+  <!-- brilho roxo pulsando atrás do botão -->
+  <rect class="glow" x="40" y="30" width="240" height="40" rx="20" fill="#A020F0" filter="url(#glow)"/>
+
+  <!-- borda animada + corpo -->
+  <rect x="20.5" y="18.5" width="279" height="59" rx="29.5" fill="url(#ring)"/>
+  <rect x="22" y="20" width="276" height="56" rx="28" fill="url(#fill)"/>
   <g clip-path="url(#pill)">
-    <rect x="2" y="2" width="240" height="48" fill="url(#bg)"/>
-    <rect class="shine" x="0" y="0" width="90" height="52" fill="url(#shine)" transform="skewX(-20)"/>
+    <rect x="22" y="20" width="276" height="28" fill="url(#gloss)"/>
+    <rect class="shine" x="0" y="10" width="90" height="76" fill="url(#shine)" transform="skewX(-20)"/>
   </g>
-  <circle cx="28" cy="26" r="16" fill="#fff"/>
-  <text class="be" x="28" y="32" text-anchor="middle">Bē</text>
-  <text class="label" x="54" y="31.5">Ver mais projetos</text>
+
+  <!-- ícone Behance -->
+  <circle cx="52" cy="48" r="18" fill="#A020F0"/>
+  <circle cx="52" cy="48" r="18" fill="none" stroke="#fff" stroke-opacity=".25"/>
+  <text class="be" x="52" y="53.5">Bē</text>
+
+  <text class="label" x="82" y="54" fill="url(#label)">Ver mais projetos</text>
+
+  <!-- seta em círculo -->
+  <circle cx="266" cy="48" r="16" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".18"/>
   <g class="arrow">
-    <path d="M202 26h22m-8-8 8 8-8 8" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M259 48h13m-5-5 5 5-5 5" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 </svg>

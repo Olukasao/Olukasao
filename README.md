@@ -68,9 +68,11 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   <img src="assets/behance-carousel.svg?v=3" alt="Carrossel com artes do portfólio no Behance" width="100%" />
 </a>
 
-<a href="https://www.behance.net/lucassoares205">
-  <img src="assets/btn-ver-mais-behance.svg" alt="Ver mais projetos no Behance" height="52" />
-</a>
+<p align="center">
+  <a href="https://www.behance.net/lucassoares205">
+    <img src="assets/btn-ver-mais-behance.svg?v=2" alt="Ver mais projetos no Behance" height="80" />
+  </a>
+</p>
 
 <br>
 

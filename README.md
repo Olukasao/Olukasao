@@ -78,20 +78,12 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <h3 align="left">🎬 Motion Design</h3>
 
-https://github.com/user-attachments/assets/0892d8b7-0a92-4673-98f9-368cf5731d67
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/0892d8b7-0a92-4673-98f9-368cf5731d67"><img src="assets/motion/cover-kollect-your-world.svg" alt="Assistir: Kollect Your World, animação de logo da KollectBR" width="49%" /></a>
+  <a href="https://github.com/user-attachments/assets/5ef339ff-02f4-42ef-aa2e-3f7f66b7e1cd"><img src="assets/motion/cover-chat-interno.svg" alt="Assistir: Chat Interno, motion de interface da Acessanet" width="49%" /></a>
+</p>
 
-<p align="center"><b>01 / 02 · Kollect Your World</b> · Animação de logo para a KollectBR</p>
-
-<details>
-<summary><b>➜ Próximo motion: Chat Interno</b> <sub>(clique para abrir)</sub></summary>
-
-<br>
-
-https://github.com/user-attachments/assets/5ef339ff-02f4-42ef-aa2e-3f7f66b7e1cd
-
-<p align="center"><b>02 / 02 · Chat Interno</b> · Motion do chat interno da Acessanet</p>
-
-</details>
+<p align="center"><sub>▶ Clique em uma capa para assistir em 1080p</sub></p>
 
 <br>
 

@@ -70,7 +70,8 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 [Demon Slayer × KollectBR](https://www.behance.net/gallery/247846559/Manipulacao-de-Imagem-Demon-Slayer-Kollect) ·
 [Elfbar · Manipulação de Imagem](https://www.behance.net/gallery/194636151/Elfbar-Pod-Disposable-Manipulation) ·
-[Pod Point · Social Media](https://www.behance.net/gallery/193516931/Social-Media-POD-POINT)
+[Pod Point · Social Media](https://www.behance.net/gallery/193516931/Social-Media-POD-POINT) ·
+[Hookah Like · Embalagem Personalizada](https://www.behance.net/gallery/194076273/Caixa-Personalizada-Narguil-Hookah-Like)
 
 <a href="https://www.behance.net/lucassoares205">
   <img src="assets/btn-ver-mais-behance.svg" alt="Ver mais projetos no Behance" height="52" />
@@ -81,7 +82,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 <h3 align="left">💼 Experiência</h3>
 
 - **Programação, Marketing & Design · Dias Gestão** *(atual)*: desenvolvimento de sistemas e sites, marketing digital e design para os clientes Acessanet e Projecta Empreendimentos
-- **Designer freelancer**: identidade visual, campanhas e social media para Hokaah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
+- **Designer freelancer**: identidade visual, campanhas e social media para Hookah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
 - **T.I (PJ) · MK Academy**: suporte técnico a várias filiais, manutenção, configuração de sistemas e criação de soluções internas
 - **Marketing · Ortobom**: criação de conteúdo, peças visuais e campanhas de divulgação
 

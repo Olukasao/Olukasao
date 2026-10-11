@@ -26,6 +26,7 @@ SLIDES = [
     ("elfbar.webp", "Elfbar", "Manipulação de Imagem"),
     ("pod-point-1.webp", "Pod Point", "Social Media"),
     ("pod-point-2.webp", "Pod Point", "Social Media"),
+    ("hookah-like-caixa.webp", "Hookah Like", "Embalagem Personalizada"),
 ]
 
 W, H = 900, 540
@@ -42,6 +43,9 @@ POS = {
     "R1": (W / 2 + 245, 0.76, 0.5, 1.2, 1),
     "L2": (W / 2 - 400, 0.56, 0.3, 2.5, 0.85),
     "R2": (W / 2 + 400, 0.56, 0.3, 2.5, 0.85),
+    # Fora da tela (cards além dos 5 visíveis esperam aqui, invisíveis).
+    "OUT_L": (-150, 0.45, 0.3, 3, 0),
+    "OUT_R": (W + 150, 0.45, 0.3, 3, 0),
 }
 
 
@@ -108,21 +112,23 @@ def main():
       <text class="kind" x="{W / 2}" y="{H - 46}">{kind}</text>
     </g>''')
 
-    hidden = "filter: brightness(0.3) blur(3px); opacity: 0;"
-    move_kf = f"""
-      0% {{ {pose("R1")} }}
-      {m:.2f}% {{ {pose("C")} }}
-      {step:.2f}% {{ {pose("C")} }}
-      {step + m:.2f}% {{ {pose("L1")} }}
-      {2 * step:.2f}% {{ {pose("L1")} }}
-      {2 * step + m:.2f}% {{ {pose("L2")} }}
-      {3 * step:.2f}% {{ {pose("L2")} }}
-      {3 * step + m / 2:.2f}% {{ transform: translate(-150px, {CY}px) scale(0.45); {hidden} }}
-      {3 * step + m / 2 + eps:.2f}% {{ transform: translate({W + 150}px, {CY}px) scale(0.45); {hidden} }}
-      {3 * step + m:.2f}% {{ {pose("R2")} }}
-      {4 * step:.2f}% {{ {pose("R2")} }}
-      {4 * step + m:.2f}% {{ {pose("R1")} }}
-      100% {{ {pose("R1")} }}"""
+    # Posição do card em cada passo; ele chega nela durante os primeiros m%.
+    # Com mais de 5 artes, as excedentes esperam fora da tela à esquerda.
+    seq = ["C", "L1", "L2"] + ["OUT_L"] * (n - 5) + ["R2", "R1"]
+    frames = [f"0% {{ {pose('R1')} }}"]
+    for k in range(n - 1):
+        a, prev, cur = k * step, seq[k - 1] if k else "R1", seq[k]
+        if cur == "R2" and prev == "L2":
+            # Sem espera fora da tela: sai pela esquerda e volta pela direita no meio do movimento.
+            frames += [f"{a + m / 2:.3f}% {{ {pose('OUT_L')} }}", f"{a + m / 2 + eps:.3f}% {{ {pose('OUT_R')} }}"]
+        elif cur == "R2":
+            frames += [f"{a:.3f}% {{ {pose('OUT_R')} }}"]
+        elif k:
+            frames += [f"{a:.3f}% {{ {pose(prev)} }}"]
+        frames += [f"{a + m:.3f}% {{ {pose(cur)} }}"]
+    frames += [f"{(n - 1) * step:.3f}% {{ {pose('R2')} }}", f"{(n - 1) * step + m:.3f}% {{ {pose('R1')} }}",
+               f"100% {{ {pose('R1')} }}"]
+    move_kf = "\n      " + "\n      ".join(frames)
 
     def visible(*ranges):
         """Opacidade 1 só nos intervalos dados (troca de camada instantânea)."""
@@ -138,8 +144,8 @@ def main():
 
     # Camadas de profundidade: o card do centro sempre por cima dos vizinhos.
     front = visible((0, step + m))
-    mid = visible((step + m, 2 * step + m), (4 * step, 100))
-    far = visible((2 * step + m, 4 * step))
+    mid = visible((step + m, 2 * step + m), ((n - 1) * step, 100))
+    far = visible((2 * step + m, (n - 1) * step))
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Carrossel de projetos de design no Behance">
   <defs>

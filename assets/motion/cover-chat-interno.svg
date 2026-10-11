@@ -26,7 +26,7 @@
     <circle cx="582" cy="308" r="26" fill="#A020F0"/>
     <circle cx="582" cy="308" r="26" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
     <path d="M575 297 L594 308 L575 319 Z" fill="#fff" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
-    <text class="num" x="24" y="294">02 / 02</text>
+    <text class="num" x="24" y="294">02 / 04</text>
     <text class="title" x="24" y="320">Chat Interno</text>
     <text class="desc" x="24" y="342">Motion de interface · Acessanet</text>
     <rect x=".75" y=".75" width="638.5" height="358.5" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="1.5"/>

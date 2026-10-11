@@ -19,6 +19,8 @@ DIR = ROOT / "assets" / "motion"
 MOTIONS = [
     ("kollect-your-world-frame.jpg", "cover-kollect-your-world.svg", "Kollect Your World", "Animação de logo · KollectBR"),
     ("chat-interno-frame.jpg", "cover-chat-interno.svg", "Chat Interno", "Motion de interface · Acessanet"),
+    ("central-assinante-frame.jpg", "cover-central-assinante.svg", "Central do Assinante", "Motion de produto · Acessanet"),
+    ("agenda-tecnicos-frame.jpg", "cover-agenda-tecnicos.svg", "Agenda de Técnicos", "Motion de produto · Acessanet"),
 ]
 
 W, H = 640, 360

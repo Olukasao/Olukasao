@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="80" viewBox="0 0 540 80" role="img" aria-label="Olá, eu sou o Lucas Soares! 👾 Dev Full-stack · Designer · Fundador da KollectBR">
+  <style>
+    text { font-family: 'Fira Code', Consolas, 'Courier New', monospace; fill: #A020F0; }
+    .s28 { font-size: 28px; font-weight: 700; }
+    .s16 { font-size: 16px; font-weight: 500; }
+  </style>
+  <filter id="b0" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="0.20s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="0.0" y="34" filter="url(#b0)" opacity="0">Olá,<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.20s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="0.20s" fill="freeze"/></text>
+  <filter id="b1" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="84.0" y="34" filter="url(#b1)" opacity="0">eu<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="0.35s" fill="freeze"/></text>
+  <filter id="b2" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="134.4" y="34" filter="url(#b2)" opacity="0">sou<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="0.50s" fill="freeze"/></text>
+  <filter id="b3" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="0.65s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="201.6" y="34" filter="url(#b3)" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.65s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="0.65s" fill="freeze"/></text>
+  <filter id="b4" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="0.80s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="235.2" y="34" filter="url(#b4)" opacity="0">Lucas<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.80s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="0.80s" fill="freeze"/></text>
+  <filter id="b5" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="0.95s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="336.0" y="34" filter="url(#b5)" opacity="0">Soares!<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.95s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="0.95s" fill="freeze"/></text>
+  <filter id="b6" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="11">
+      <animate attributeName="stdDeviation" values="11;0" dur="0.9s" begin="1.10s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s28" x="470.4" y="34" filter="url(#b6)" opacity="0">👾<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.10s" fill="freeze"/></text>
+  <filter id="b100" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.30s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="0.0" y="66" filter="url(#b100)" opacity="0">Dev<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.30s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.30s" fill="freeze"/></text>
+  <filter id="b101" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.40s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="38.4" y="66" filter="url(#b101)" opacity="0">Full-stack<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.40s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.40s" fill="freeze"/></text>
+  <filter id="b102" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.50s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="144.0" y="66" filter="url(#b102)" opacity="0">·<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.50s" fill="freeze"/></text>
+  <filter id="b103" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="163.2" y="66" filter="url(#b103)" opacity="0">Designer<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.60s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.60s" fill="freeze"/></text>
+  <filter id="b104" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.70s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="249.6" y="66" filter="url(#b104)" opacity="0">·<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.70s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.70s" fill="freeze"/></text>
+  <filter id="b105" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.80s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="268.8" y="66" filter="url(#b105)" opacity="0">Fundador<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.80s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.80s" fill="freeze"/></text>
+  <filter id="b106" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="1.90s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="355.2" y="66" filter="url(#b106)" opacity="0">da<animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="1.90s" fill="freeze"/></text>
+  <filter id="b107" x="-50%" y="-100%" width="200%" height="300%">
+    <feGaussianBlur stdDeviation="6">
+      <animate attributeName="stdDeviation" values="6;0" dur="0.9s" begin="2.00s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </feGaussianBlur>
+  </filter>
+  <text class="s16" x="384.0" y="66" filter="url(#b107)" opacity="0">KollectBR<animate attributeName="opacity" values="0;1" dur="0.9s" begin="2.00s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.9s" begin="2.00s" fill="freeze"/></text>
+</svg>

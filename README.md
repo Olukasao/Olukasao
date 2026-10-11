@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A020F0&random=false&width=520&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Soares!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%9C;Dev+Full-stack+%2B+Designer;Fundador+da+KollectBR+%F0%9F%A7%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A020F0&random=false&width=560&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Soares!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%9C;Dev+Full-stack+%2B+Designer;Especialista+em+IA+%F0%9F%A4%96;Fundador+da+KollectBR+%F0%9F%A7%8A)](https://git.io/typing-svg)
 
-**Desenvolvedor full-stack e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**
+**Desenvolvedor full-stack, especialista em IA e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**
 
-Crio sistemas internos, sites e interfaces que unem **programação, design e marketing**: do layout no Figma ao deploy com Node.js, PM2 e Nginx. Gosto de transformar ideias em soluções que realmente ajudam empresas e equipes no dia a dia.
+Crio sistemas internos, sites e interfaces que unem **programação, inteligência artificial, design e marketing**: do layout no Figma ao deploy com Node.js, PM2 e Nginx, usando IA para automatizar processos e criar experiências mais inteligentes. Gosto de transformar ideias em soluções que realmente ajudam empresas e equipes no dia a dia.
 
 - 🔭 Atualmente desenvolvendo soluções digitais para empresas: sistemas internos, sites e automações
+- 🤖 Aplicando IA em sistemas, automações, atendimento e criação de conteúdo: integração com LLMs, agentes e IA generativa
 - 🎨 Designer freelancer para marcas, restaurantes, times de e-sports e streamers da Twitch
 - 🧊 Tocando a KollectBR: colecionáveis, figures, Funkos e impressão 3D
 - 🌎 Português (nativo) · Inglês (avançado) · Espanhol (básico)
@@ -85,13 +86,22 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 ![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge&logoColor=A020F0)
 ![VPS](https://img.shields.io/badge/VPS%20%2F%20VM-000?style=for-the-badge&logoColor=A020F0)
 
+**Inteligência Artificial**
+
+![LLMs](https://img.shields.io/badge/LLMs-000?style=for-the-badge&logoColor=A020F0)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000?style=for-the-badge&logoColor=A020F0)
+![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA-000?style=for-the-badge&logoColor=A020F0)
+![Automação com IA](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20com%20IA-000?style=for-the-badge&logoColor=A020F0)
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000?style=for-the-badge&logoColor=A020F0)
+![APIs de IA](https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20de%20APIs%20de%20IA-000?style=for-the-badge&logoColor=A020F0)
+
 **Design & 3D**
 
 [![Design](https://skillicons.dev/icons?i=figma,ps,ae,blender)](https://skillicons.dev)
 ![Sony Vegas](https://img.shields.io/badge/Sony%20Vegas-000?style=for-the-badge&logoColor=A020F0)
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-000?style=for-the-badge&logoColor=A020F0)
 
-**Áreas que conecto no dia a dia:** front-end, back-end, sistemas internos, suporte técnico, redes, automação, design gráfico, UI/UX, branding, marketing digital, e-commerce e importação.
+**Áreas que conecto no dia a dia:** inteligência artificial, front-end, back-end, sistemas internos, suporte técnico, redes, automação, design gráfico, UI/UX, branding, marketing digital, e-commerce e importação.
 
 <br>
 

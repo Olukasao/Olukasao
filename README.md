@@ -68,11 +68,6 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   <img src="assets/behance-carousel.svg" alt="Carrossel com artes do portfólio no Behance" width="100%" />
 </a>
 
-[Demon Slayer × KollectBR](https://www.behance.net/gallery/247846559/Manipulacao-de-Imagem-Demon-Slayer-Kollect) ·
-[Elfbar · Manipulação de Imagem](https://www.behance.net/gallery/194636151/Elfbar-Pod-Disposable-Manipulation) ·
-[Pod Point · Social Media](https://www.behance.net/gallery/193516931/Social-Media-POD-POINT) ·
-[Hookah Like · Embalagem Personalizada](https://www.behance.net/gallery/194076273/Caixa-Personalizada-Narguil-Hookah-Like)
-
 <a href="https://www.behance.net/lucassoares205">
   <img src="assets/btn-ver-mais-behance.svg" alt="Ver mais projetos no Behance" height="52" />
 </a>

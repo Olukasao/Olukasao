@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/5ef339ff-02f4-42ef-aa2e-3f7f66b7e1cd
-
 <img src="assets/blur-reveal-header.svg" alt="Olá, eu sou o Lucas Soares! 👾 Dev Full-stack · Designer · Fundador da KollectBR" />
 
 **Desenvolvedor full-stack e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**
@@ -84,7 +80,18 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 https://github.com/user-attachments/assets/0892d8b7-0a92-4673-98f9-368cf5731d67
 
-<p align="center"><b>Kollect Your World</b> · Animação de logo para a KollectBR</p>
+<p align="center"><b>01 / 02 · Kollect Your World</b> · Animação de logo para a KollectBR</p>
+
+<details>
+<summary><b>➜ Próximo motion: Chat Interno</b> <sub>(clique para abrir)</sub></summary>
+
+<br>
+
+https://github.com/user-attachments/assets/5ef339ff-02f4-42ef-aa2e-3f7f66b7e1cd
+
+<p align="center"><b>02 / 02 · Chat Interno</b> · Motion do chat interno da Acessanet</p>
+
+</details>
 
 <br>
 

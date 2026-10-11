@@ -80,7 +80,8 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <h3 align="left">💼 Experiência</h3>
 
-- **Desenvolvedor & Designer freelancer**: sistemas, sites e identidade visual para Acessanet, Projecta Empreendimentos, Hokaah Like, Dreams Car e outros
+- **Programação, Marketing & Design · Dias Gestão** *(atual)*: desenvolvimento de sistemas e sites, marketing digital e design para os clientes Acessanet e Projecta Empreendimentos
+- **Designer freelancer**: identidade visual, campanhas e social media para Hokaah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
 - **T.I (PJ) · MK Academy**: suporte técnico a várias filiais, manutenção, configuração de sistemas e criação de soluções internas
 - **Marketing · Ortobom**: criação de conteúdo, peças visuais e campanhas de divulgação
 

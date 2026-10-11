@@ -129,12 +129,6 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   <img src="https://raw.githubusercontent.com/Olukasao/Olukasao/stats-output/languages.svg" alt="Linguagens mais usadas" width="49%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olukasao/Olukasao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Olukasao/Olukasao/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Olukasao/Olukasao/output/github-contribution-grid-snake.svg">
-</picture>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Olukasao/Olukasao/gitworld-output/gitworld.svg" alt="GitWorld: contribuições do GitHub como uma cidade em pixel art animada" width="100%" />
 </p>
@@ -149,7 +143,6 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 * Badges por <a href="https://shields.io/">shields.io</a> e ícones por <a href="https://skillicons.dev">skillicons.dev</a>.
 * Estatísticas geradas por <code>scripts/build_stats.py</code> (GitHub GraphQL API); contador de visitas por <a href="https://komarev.com/github-profile-views-counter/">komarev</a>.
 * Emojis animados por <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.
-* Animação da cobrinha por <a href="https://github.com/Platane/snk">Platane/snk</a>.
 * Cidade por <a href="https://github.com/Dasmat13/git-world-action">GitWorld Engine</a>.
 * Ícones de ferramentas por <a href="https://devicon.dev">Devicon</a> e <a href="https://simpleicons.org">Simple Icons</a>; onda do rodapé por <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>.
 

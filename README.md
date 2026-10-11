@@ -137,6 +137,22 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br><br>
 
+<h3 align="left">🌆 Minha cidade de código</h3>
+
+<p align="center">
+  <a href="https://gitcity.natrajx.in/Olukasao"><img src="https://gitcity.natrajx.in/api/svg?u=Olukasao&theme=noir" alt="GitCity: contribuições do GitHub como uma cidade 3D isométrica" width="100%" /></a>
+</p>
+
+<p align="center"><sub>Cada prédio é um dia com commits. Clique para explorar a cidade em 3D.</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olukasao/Olukasao/gitworld-output/gitworld.svg" alt="GitWorld: contribuições do GitHub como uma cidade em pixel art animada" width="100%" />
+</p>
+
+<p align="center"><sub>GitWorld: commits viram prédios, repositórios viram cidades, issues viram monstros.</sub></p>
+
+<br><br>
+
 <details align="left">
   <summary>Créditos</summary>
 
@@ -144,6 +160,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 * Estatísticas por <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.
 * Emojis animados por <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.
 * Animação da cobrinha por <a href="https://github.com/Platane/snk">Platane/snk</a>.
+* Cidades por <a href="https://github.com/rishabhbhartiya/GitCity">GitCity</a> e <a href="https://github.com/Dasmat13/git-world-action">GitWorld Engine</a>.
 
   <div align="right">Feito com 💜 por <a href="https://github.com/Olukasao">Olukasao</a>.</div>
 

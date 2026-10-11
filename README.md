@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0892d8b7-0a92-4673-98f9-368cf5731d67
+
 <img src="assets/blur-reveal-header.svg" alt="Olá, eu sou o Lucas Soares! 👾 Dev Full-stack · Designer · Fundador da KollectBR" />
 
 **Desenvolvedor full-stack e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**

@@ -62,6 +62,20 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
+<h3 align="left">🎨 Portfólio de Design</h3>
+
+<a href="https://www.behance.net/lucassoares205">
+  <img src="assets/behance-carousel.svg" alt="Carrossel com artes do portfólio no Behance" width="100%" />
+</a>
+
+[Elfbar · Manipulação de Imagem](https://www.behance.net/gallery/194636151/Elfbar-Pod-Disposable-Manipulation) ·
+[Demon Slayer × KollectBR](https://www.behance.net/gallery/247846559/Manipulacao-de-Imagem-Demon-Slayer-Kollect) ·
+[Pod Point · Social Media](https://www.behance.net/gallery/193516931/Social-Media-POD-POINT)
+
+[![Ver portfólio completo no Behance](https://img.shields.io/badge/Ver%20portf%C3%B3lio%20completo%20no%20Behance-000?style=for-the-badge&logo=behance&logoColor=A020F0)](https://www.behance.net/lucassoares205)
+
+<br>
+
 <h3 align="left">💼 Experiência</h3>
 
 - **Desenvolvedor & Designer freelancer**: sistemas, sites e identidade visual para Acessanet, Projecta Empreendimentos, Hokaah Like, Dreams Car e outros

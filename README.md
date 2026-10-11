@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A020F0&random=false&width=520&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Soares!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%9C;Dev+Full-stack+%2B+Designer;Fundador+da+KollectBR+%F0%9F%A7%8A)](https://git.io/typing-svg)
+<img src="assets/blur-reveal-header.svg" alt="Olá, eu sou o Lucas Soares! 👾 Dev Full-stack · Designer · Fundador da KollectBR" />
 
 **Desenvolvedor full-stack e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**
 

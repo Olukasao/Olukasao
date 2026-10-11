@@ -18,12 +18,14 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
-<h3 align="left">🚀 Projetos em Destaque</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Foguete" width="28" height="28" align="center" /> Projetos em Destaque</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=A020F0&vCenter=true&width=520&height=30&lines=Sistemas+internos+%C2%B7+Sites+%C2%B7+Rebranding+%C2%B7+E-commerce)](https://git.io/typing-svg)
 
 <table>
   <tr>
     <td>
-      <h4>💬 Chat Interno Acessanet</h4>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Balão de fala" width="24" height="24" align="center" /> Chat Interno Acessanet</h4>
       <p>
         Sistema interno completo de comunicação, atendimento e suporte técnico de redes: conversas e grupos com envio de imagens, arquivos e áudios, comunicados e alertas em tempo real, agenda técnica, controle de plantão, páginas de procedimentos e treinamentos, cursos internos, área de vendas, permissões administrativas e tema claro/escuro.
       </p>
@@ -32,7 +34,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   </tr>
   <tr>
     <td>
-      <h4>🏢 Site Projecta Empreendimentos</h4>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Prédio" width="24" height="24" align="center" /> Site Projecta Empreendimentos</h4>
       <p>
         Site institucional com divulgação de imóveis, navegação moderna e painel administrativo para cadastro e gestão dos empreendimentos, do layout até o deploy.
       </p>
@@ -41,7 +43,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   </tr>
   <tr>
     <td>
-      <h4>🎨 Rebranding e Artes Visuais Acessanet</h4>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Paleta" width="24" height="24" align="center" /> Rebranding e Artes Visuais Acessanet</h4>
       <p>
         Rebranding visual do site e da comunicação digital da marca: banners, campanhas promocionais, peças comerciais e institucionais e padronização visual para redes sociais.
       </p>
@@ -50,7 +52,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   </tr>
   <tr>
     <td>
-      <h4>🧊 KollectBR</h4>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Caixa" width="24" height="24" align="center" /> KollectBR</h4>
       <p>
         Loja de colecionáveis, figures, Funkos, peças 3D e produtos geek/anime. Cuido de branding, vendas, conteúdo, importação, gestão de produtos e ativações presenciais em eventos automotivos, gastronômicos, feiras e exposições.
       </p>
@@ -117,6 +119,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 * Badges por <a href="https://shields.io/">shields.io</a> e ícones por <a href="https://skillicons.dev">skillicons.dev</a>.
 * Estatísticas por <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.
+* Emojis animados por <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.
 * Animação da cobrinha por <a href="https://github.com/Platane/snk">Platane/snk</a>.
 
   <div align="right">Feito com 💜 por <a href="https://github.com/Olukasao">Olukasao</a>.</div>

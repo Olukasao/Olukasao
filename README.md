@@ -76,6 +76,16 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
+<h3 align="left">🎬 Motion Design</h3>
+
+<p align="center">
+  <img src="assets/motion/kollect-your-world.webp" alt="Motion de logo Kollect Your World: o O do logo vira pokébola, bola de futebol, bloco de Minecraft e outros universos" width="100%" />
+</p>
+
+<p align="center"><b>Kollect Your World</b> · Animação de logo para a KollectBR</p>
+
+<br>
+
 <h3 align="left">💼 Experiência</h3>
 
 - **Programação, Marketing & Design · Dias Gestão** *(atual)*: desenvolvimento de sistemas e sites, marketing digital e design para os clientes Acessanet e Projecta Empreendimentos

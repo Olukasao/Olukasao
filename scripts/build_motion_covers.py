@@ -18,7 +18,7 @@ DIR = ROOT / "assets" / "motion"
 # (quadro do vídeo, arquivo de saída, título, descrição)
 MOTIONS = [
     ("kollect-your-world-frame.jpg", "cover-kollect-your-world.svg", "Kollect Your World", "Animação de logo · KollectBR"),
-    ("chat-interno-frame.jpg", "cover-chat-interno.svg", "Chat Interno", "Motion · Acessanet"),
+    ("chat-interno-frame.jpg", "cover-chat-interno.svg", "Chat Interno", "Motion de interface · Acessanet"),
 ]
 
 W, H = 640, 360

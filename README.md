@@ -9,7 +9,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 - 🧊 Tocando a KollectBR: colecionáveis, figures, Funkos e impressão 3D
 - 🌎 Português (nativo) · Inglês (avançado) · Espanhol (básico)
 
-<h3 align="left">📫 Contato</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Caixa de correio" width="28" height="28" align="center" /> Contato</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A020F0)](mailto:lukasao.11@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A020F0)](https://www.linkedin.com/in/lucas-soares-gon%C3%A7alves-/)
@@ -62,7 +62,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
-<h3 align="left">🎨 Portfólio de Design</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Paleta" width="28" height="28" align="center" /> Portfólio de Design</h3>
 
 <a href="https://www.behance.net/lucassoares205">
   <img src="assets/behance-carousel.svg?v=3" alt="Carrossel com artes do portfólio no Behance" width="100%" />
@@ -76,7 +76,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
-<h3 align="left">🎬 Motion Design</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Claquete" width="28" height="28" align="center" /> Motion Design</h3>
 
 <p align="center">
   <a href="https://www.behance.net/lucassoares205"><img src="assets/motion/halo-carousel.webp" alt="Carrossel com trechos dos motions: Kollect Your World, Chat Interno, Central do Assinante e Agenda de Técnicos" width="100%" /></a>
@@ -84,7 +84,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
-<h3 align="left">💼 Experiência</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Maleta" width="28" height="28" align="center" /> Experiência</h3>
 
 - **Programação, Marketing & Design · Dias Gestão** *(atual)*: desenvolvimento de sistemas e sites, marketing digital e design para os clientes Acessanet e Projecta Empreendimentos
 - **Designer freelancer**: identidade visual, campanhas e social media para Hookah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
@@ -93,7 +93,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
-<h3 align="left">🛠️ Stack</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Ferramentas" width="28" height="28" align="center" /> Stack</h3>
 
 **Front-end**
 
@@ -122,14 +122,12 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <br>
 
-<h3 align="left">📊 GitHub</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Gráfico" width="28" height="28" align="center" /> Atividade</h3>
 
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Olukasao&show_icons=true&hide_border=true&bg_color=000000&title_color=A020F0&icon_color=A020F0&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olukasao&layout=compact&hide_border=true&bg_color=000000&title_color=A020F0&text_color=FFFFFF" alt="Linguagens mais usadas" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olukasao/Olukasao/stats-output/stats.svg" alt="Estatísticas do GitHub" width="49%" />
+  <img src="https://raw.githubusercontent.com/Olukasao/Olukasao/stats-output/languages.svg" alt="Linguagens mais usadas" width="49%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olukasao/Olukasao/output/github-contribution-grid-snake-dark.svg">
@@ -137,23 +135,19 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Olukasao/Olukasao/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
-
-<h3 align="left">🌆 Minha cidade de código</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Olukasao/Olukasao/gitworld-output/gitworld.svg" alt="GitWorld: contribuições do GitHub como uma cidade em pixel art animada" width="100%" />
 </p>
 
 <p align="center"><sub>GitWorld: commits viram prédios, repositórios viram cidades, issues viram monstros.</sub></p>
 
-<br><br>
+<br>
 
 <details align="left">
   <summary>Créditos</summary>
 
 * Badges por <a href="https://shields.io/">shields.io</a> e ícones por <a href="https://skillicons.dev">skillicons.dev</a>.
-* Estatísticas por <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.
+* Estatísticas geradas por <code>scripts/build_stats.py</code> (GitHub GraphQL API); contador de visitas por <a href="https://komarev.com/github-profile-views-counter/">komarev</a>.
 * Emojis animados por <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.
 * Animação da cobrinha por <a href="https://github.com/Platane/snk">Platane/snk</a>.
 * Cidade por <a href="https://github.com/Dasmat13/git-world-action">GitWorld Engine</a>.
@@ -162,5 +156,9 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   <div align="right">Feito com 💜 por <a href="https://github.com/Olukasao">Olukasao</a>.</div>
 
 </details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Olukasao&label=visitas&color=A020F0&style=flat-square" alt="Contador de visitas do perfil" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0a6b,100:A020F0&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="Obrigado pela visita!" width="100%" />

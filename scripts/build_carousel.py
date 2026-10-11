@@ -5,8 +5,9 @@ O README do GitHub não roda JavaScript, então o carrossel é um SVG animado
 busca arquivos externos).
 
 Layout estilo coverflow: card central em destaque, vizinhos menores,
-escurecidos e desfocados, fundo ambiente com a arte atual, legenda
-editorial e barra de progresso.
+esmaecidos e desfocados, fundo transparente (os cards flutuam sobre o
+fundo do GitHub, com sombra), legenda que se adapta ao tema claro/escuro
+e barra de progresso.
 
 Uso: python3 scripts/build_carousel.py
 """
@@ -40,10 +41,10 @@ ACCENT = "#A020F0"
 # Posições do coverflow: (x do centro, escala, brilho, blur, opacidade)
 POS = {
     "C": (W / 2, 1.0, 1.0, 0, 1),
-    "L1": (W / 2 - 245, 0.76, 0.5, 1.2, 1),
-    "R1": (W / 2 + 245, 0.76, 0.5, 1.2, 1),
-    "L2": (W / 2 - 400, 0.56, 0.3, 2.5, 0.85),
-    "R2": (W / 2 + 400, 0.56, 0.3, 2.5, 0.85),
+    "L1": (W / 2 - 245, 0.76, 0.85, 1.2, 0.6),
+    "R1": (W / 2 + 245, 0.76, 0.85, 1.2, 0.6),
+    "L2": (W / 2 - 400, 0.56, 0.75, 2.5, 0.3),
+    "R2": (W / 2 + 400, 0.56, 0.75, 2.5, 0.3),
     # Fora da tela (cards além dos 5 visíveis esperam aqui, invisíveis).
     "OUT_L": (-150, 0.45, 0.3, 3, 0),
     "OUT_R": (W + 150, 0.45, 0.3, 3, 0),
@@ -81,7 +82,7 @@ def main():
     m = MOVE_SECONDS / total * 100
     eps = 0.01
 
-    defs, ambient, captions = [], [], []
+    defs, captions = [], []
     layers = {"far": [], "mid": [], "front": []}
     for i, (name, title, kind) in enumerate(SLIDES):
         img = Image.open(SRC / name).convert("RGB")
@@ -92,7 +93,7 @@ def main():
         fw, fh = fg.width / 2, fg.height / 2
         card_bg = blurred(img, CARD_W // 3, CARD_H // 3, 4, 0.6)
         defs.append(f'''    <image id="bg{i}" href="{data_uri(card_bg, 70)}" width="{CARD_W}" height="{CARD_H}" preserveAspectRatio="none"/>
-    <g id="card{i}">
+    <g id="card{i}" filter="url(#float)">
       <g clip-path="url(#cardclip)">
         <use href="#bg{i}" x="{-CARD_W / 2}" y="{-CARD_H / 2}"/>
         <image href="{data_uri(fg, 80)}" x="{-fw / 2:.1f}" y="{-fh / 2:.1f}" width="{fw:.1f}" height="{fh:.1f}"/>
@@ -104,9 +105,8 @@ def main():
         # O card i começa adiantado (n - i) passos, então o card 0 abre no centro.
         delay = -((n - i) % n) * STEP_SECONDS
         style = f'style="animation-delay:{delay:.2f}s"'
-        ambient.append(f'    <use class="amb" href="#bg{i}" transform="translate(-60 -60) scale({(W + 120) / CARD_W:.4f} {(H + 120) / CARD_H:.4f})" {style}/>')
         for layer in layers:
-            layers[layer].append(f'    <g class="move" {style}><g class="{layer}" {style}><use href="#card{i}"/></g></g>')
+            layers[layer].append(f'    <g class="move" {style}><g class="{layer}" {style}><g class="bob"><use href="#card{i}"/></g></g></g>')
         captions.append(f'''    <g class="cap" {style}>
       <text class="num" x="{W / 2}" y="{H - 92}">{i + 1:02d} / {n:02d}</text>
       <text class="title" x="{W / 2}" y="{H - 66}">{title}</text>
@@ -150,23 +150,20 @@ def main():
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Carrossel de projetos de design no Behance">
   <defs>
-    <clipPath id="frame"><rect width="{W}" height="{H}" rx="22"/></clipPath>
     <clipPath id="cardclip"><rect x="{-CARD_W / 2}" y="{-CARD_H / 2}" width="{CARD_W}" height="{CARD_H}" rx="18"/></clipPath>
-    <radialGradient id="glow" cx="50%" cy="42%" r="45%">
-      <stop offset="0" stop-color="{ACCENT}" stop-opacity=".45"/>
-      <stop offset="1" stop-color="{ACCENT}" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#07030c" stop-opacity=".35"/>
-      <stop offset=".6" stop-color="#07030c" stop-opacity=".55"/>
-      <stop offset="1" stop-color="#07030c" stop-opacity=".95"/>
+    <filter id="float" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+    <!-- Esmaece os cards nas bordas laterais, sem pintar fundo. -->
+    <linearGradient id="edgefade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".1" stop-color="#fff" stop-opacity="1"/>
+      <stop offset=".9" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="edges" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#07030c" stop-opacity=".9"/>
-      <stop offset=".12" stop-color="#07030c" stop-opacity="0"/>
-      <stop offset=".88" stop-color="#07030c" stop-opacity="0"/>
-      <stop offset="1" stop-color="#07030c" stop-opacity=".9"/>
-    </linearGradient>
+    <mask id="edges" maskUnits="userSpaceOnUse" x="0" y="0" width="{W}" height="{H}">
+      <rect width="{W}" height="{H}" fill="url(#edgefade)"/>
+    </mask>
 {chr(10).join(defs)}
   </defs>
   <style>
@@ -179,8 +176,8 @@ def main():
     @keyframes front {{ {front} }}
     @keyframes mid {{ {mid} }}
     @keyframes far {{ {far} }}
-    .amb {{ opacity: 0; animation: amb {total:.1f}s ease-in-out infinite; }}
-    @keyframes amb {{ 0% {{ opacity: 0; }} {m:.3f}% {{ opacity: 1; }} {step:.3f}% {{ opacity: 1; }} {step + m:.3f}% {{ opacity: 0; }} 100% {{ opacity: 0; }} }}
+    .bob {{ animation: bob 4s ease-in-out infinite; }}
+    @keyframes bob {{ 0%, 100% {{ transform: translateY(-4px); }} 50% {{ transform: translateY(4px); }} }}
     .cap {{ opacity: 0; animation: cap {total:.1f}s ease-out infinite; }}
     @keyframes cap {{
       0% {{ opacity: 0; transform: translateY(10px); filter: blur(4px); }}
@@ -193,24 +190,24 @@ def main():
     .bar {{ transform-box: fill-box; transform-origin: left; animation: bar {STEP_SECONDS}s linear infinite; }}
     @keyframes bar {{ 0% {{ transform: scaleX(0); }} 100% {{ transform: scaleX(1); }} }}
     text {{ font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; text-anchor: middle; }}
-    .num {{ font-size: 11px; font-weight: 700; letter-spacing: 3px; fill: #c27bff; }}
-    .title {{ font-size: 21px; font-weight: 700; fill: #fff; }}
-    .kind {{ font-size: 13px; fill: #b9a7c9; letter-spacing: .5px; }}
+    .num {{ font-size: 11px; font-weight: 700; letter-spacing: 3px; fill: {ACCENT}; }}
+    .title {{ font-size: 21px; font-weight: 700; fill: #1f2328; }}
+    .kind {{ font-size: 13px; fill: #59636e; letter-spacing: .5px; }}
+    .track {{ fill: #8b949e; fill-opacity: .25; }}
+    @media (prefers-color-scheme: dark) {{
+      .num {{ fill: #c27bff; }}
+      .title {{ fill: #f0f6fc; }}
+      .kind {{ fill: #9198a1; }}
+    }}
   </style>
-  <g clip-path="url(#frame)">
-    <rect width="{W}" height="{H}" fill="#07030c"/>
-{chr(10).join(ambient)}
-    <rect width="{W}" height="{H}" fill="url(#shade)"/>
-    <rect width="{W}" height="{H}" fill="url(#glow)"/>
+  <g mask="url(#edges)">
 {chr(10).join(layers["far"])}
 {chr(10).join(layers["mid"])}
 {chr(10).join(layers["front"])}
-    <rect width="{W}" height="{H}" fill="url(#edges)"/>
-{chr(10).join(captions)}
-    <rect x="{W / 2 - 80}" y="{H - 26}" width="160" height="3" rx="1.5" fill="#fff" fill-opacity=".15"/>
-    <rect class="bar" x="{W / 2 - 80}" y="{H - 26}" width="160" height="3" rx="1.5" fill="{ACCENT}"/>
-    <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="22" fill="none" stroke="#fff" stroke-opacity=".08"/>
   </g>
+{chr(10).join(captions)}
+  <rect class="track" x="{W / 2 - 80}" y="{H - 26}" width="160" height="3" rx="1.5"/>
+  <rect class="bar" x="{W / 2 - 80}" y="{H - 26}" width="160" height="3" rx="1.5" fill="{ACCENT}"/>
 </svg>
 '''
     OUT.write_text(svg)

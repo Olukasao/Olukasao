@@ -20,7 +20,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Foguete" width="28" height="28" align="center" /> Projetos em Destaque</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=A020F0&vCenter=true&width=520&height=30&lines=Sistemas+internos+%C2%B7+Sites+%C2%B7+Rebranding+%C2%B7+E-commerce)](https://git.io/typing-svg)
+<img src="assets/blur-reveal-projetos.svg" alt="Sistemas internos · Sites · Rebranding · E-commerce" />
 
 <table>
   <tr>

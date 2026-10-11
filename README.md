@@ -79,7 +79,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 <h3 align="left">🎬 Motion Design</h3>
 
 <p align="center">
-  <img src="assets/motion/kollect-your-world.webp" alt="Motion de logo Kollect Your World: o O do logo vira pokébola, bola de futebol, bloco de Minecraft e outros universos" width="100%" />
+  <img src="assets/motion/kollect-your-world.webp?v=2" alt="Motion de logo Kollect Your World: o O do logo vira pokébola, bola de futebol, bloco de Minecraft e outros universos" width="100%" />
 </p>
 
 <p align="center"><b>Kollect Your World</b> · Animação de logo para a KollectBR</p>

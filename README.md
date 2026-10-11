@@ -72,7 +72,9 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 [Elfbar · Manipulação de Imagem](https://www.behance.net/gallery/194636151/Elfbar-Pod-Disposable-Manipulation) ·
 [Pod Point · Social Media](https://www.behance.net/gallery/193516931/Social-Media-POD-POINT)
 
-[![Ver portfólio completo no Behance](https://img.shields.io/badge/Ver%20portf%C3%B3lio%20completo%20no%20Behance-000?style=for-the-badge&logo=behance&logoColor=A020F0)](https://www.behance.net/lucassoares205)
+<a href="https://www.behance.net/lucassoares205">
+  <img src="assets/btn-ver-mais-behance.svg" alt="Ver mais projetos no Behance" height="52" />
+</a>
 
 <br>
 

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="206" viewBox="0 0 700 206" role="img" aria-label="Ferramentas de design: Figma, Photoshop, After Effects, Blender, Bambu Lab">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#241b30"/>
+      <stop offset="1" stop-color="#0e0b13"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9a8ff"/>
+      <stop offset=".5" stop-color="#A020F0" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#5b1494"/>
+    </linearGradient>
+    <filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="soft" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <style>
+    .float { transform-box: fill-box; transform-origin: center; animation: float 4.2s ease-in-out infinite; }
+    @keyframes float {
+      0%, 100% { transform: translateY(6px) rotate(-3deg); }
+      50% { transform: translateY(-10px) rotate(3deg); }
+    }
+    .shadow { fill: #000; opacity: .35; filter: url(#soft); transform-box: fill-box; transform-origin: center;
+      animation: shadow 4.2s ease-in-out infinite; }
+    @keyframes shadow {
+      0%, 100% { transform: scaleX(1); opacity: .4; }
+      50% { transform: scaleX(.7); opacity: .18; }
+    }
+    .glow { fill: #A020F0; filter: url(#blur); animation: glow 4.2s ease-in-out infinite; }
+    @keyframes glow { 0%, 100% { opacity: .35; } 50% { opacity: .75; } }
+    .label { font: 600 13px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; text-anchor: middle; fill: #59636e; }
+    @media (prefers-color-scheme: dark) { .label { fill: #9198a1; } }
+  </style>
+  <g>
+    <ellipse class="shadow" cx="78.0" cy="164" rx="40.32" ry="7" style="animation-delay:0.0s"/>
+    <g class="float" style="animation-delay:0.0s">
+      <circle class="glow" cx="78.0" cy="82.0" r="48.0" style="animation-delay:0.0s"/>
+      <rect x="30" y="34" width="96" height="96" rx="24" fill="url(#tile)"/>
+      <rect x="30" y="34" width="96" height="48.0" rx="24" fill="url(#gloss)"/>
+      <rect x="30.75" y="34.75" width="94.5" height="94.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+      <svg x="51.0" y="55.0" width="54" height="54" viewBox="0 0 128 128"><path fill="#0acf83" d="M45.5 129c11.9 0 21.5-9.6 21.5-21.5V86H45.5C33.6 86 24 95.6 24 107.5S33.6 129 45.5 129zm0 0"/><path fill="#a259ff" d="M24 64.5C24 52.6 33.6 43 45.5 43H67v43H45.5C33.6 86 24 76.4 24 64.5zm0 0"/><path fill="#f24e1e" d="M24 21.5C24 9.6 33.6 0 45.5 0H67v43H45.5C33.6 43 24 33.4 24 21.5zm0 0"/><path fill="#ff7262" d="M67 0h21.5C100.4 0 110 9.6 110 21.5S100.4 43 88.5 43H67zm0 0"/><path fill="#1abcfe" d="M110 64.5c0 11.9-9.6 21.5-21.5 21.5S67 76.4 67 64.5 76.6 43 88.5 43 110 52.6 110 64.5zm0 0"/></svg>
+    </g>
+    <text class="label" x="78.0" y="194">Figma</text>
+  </g>
+  <g>
+    <ellipse class="shadow" cx="214.0" cy="164" rx="40.32" ry="7" style="animation-delay:-0.7s"/>
+    <g class="float" style="animation-delay:-0.7s">
+      <circle class="glow" cx="214.0" cy="82.0" r="48.0" style="animation-delay:-0.7s"/>
+      <rect x="166" y="34" width="96" height="96" rx="24" fill="url(#tile)"/>
+      <rect x="166" y="34" width="96" height="48.0" rx="24" fill="url(#gloss)"/>
+      <rect x="166.75" y="34.75" width="94.5" height="94.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+      <svg x="187.0" y="55.0" width="54" height="54" viewBox="0 0 128 128"><path fill="#001e36" d="M22.667 1.6h82.666C117.867 1.6 128 11.733 128 24.267v79.466c0 12.534-10.133 22.667-22.667 22.667H22.667C10.133 126.4 0 116.267 0 103.733V24.267C0 11.733 10.133 1.6 22.667 1.6Z"/><path fill="#31a8ff" d="M45.867 33.333c-1.6 0-3.2 0-4.853.054-1.654.053-3.201.053-4.641.107-1.44.053-2.773.053-4.053.106-1.227.053-2.08.053-2.987.053-.373 0-.533.213-.533.587v54.88c0 .48.213.694.64.694h10.347c.373-.054.64-.374.586-.747v-17.12c1.013 0 1.76 0 2.294.053.533.053 1.386.053 2.666.053 4.374 0 8.374-.48 12-1.813 3.467-1.28 6.454-3.52 8.587-6.507 2.133-2.986 3.2-6.773 3.2-11.36 0-2.4-.426-4.693-1.226-6.933A16.98 16.98 0 0 0 64 39.36a19.049 19.049 0 0 0-7.147-4.374c-2.987-1.12-6.613-1.653-10.986-1.653Zm1.19 10.505c1.9.036 3.75.368 5.476 1.068 1.547.587 2.827 1.654 3.734 3.04a8.779 8.779 0 0 1 1.227 4.748c0 2.346-.534 4.16-1.654 5.493-1.174 1.333-2.667 2.347-4.373 2.827-1.974.64-4.054.959-6.134.959h-2.827c-.64 0-1.332-.053-2.079-.106v-17.92c.373-.054 1.12-.107 2.187-.053 1.013-.054 2.239-.054 3.626-.054.273-.007.546-.008.817-.002zm44.73 2.723c-3.787 0-6.934.586-9.44 1.866-2.293 1.067-4.267 2.773-5.6 4.906-1.173 1.974-1.814 4.16-1.814 6.454a11.447 11.447 0 0 0 1.227 5.44 13.809 13.809 0 0 0 4.054 4.533 32.629 32.629 0 0 0 7.573 3.84c2.613 1.013 4.373 1.813 5.227 2.506.853.694 1.28 1.387 1.28 2.134 0 .96-.587 1.867-1.44 2.24-.96.48-2.4.747-4.427.747-2.133 0-4.267-.267-6.294-.8a22.834 22.834 0 0 1-6.613-2.613c-.16-.107-.32-.16-.48-.053-.16.106-.213.319-.213.479v9.28c-.053.427.213.8.587 1.013a21.49 21.49 0 0 0 5.44 1.707c2.4.48 4.799.693 7.252.693 3.84 0 7.041-.586 9.654-1.706 2.4-.96 4.48-2.613 5.973-4.747a12.41 12.41 0 0 0 2.08-7.093 11.512 11.512 0 0 0-1.226-5.493c-1.014-1.814-2.454-3.307-4.214-4.427a38.625 38.625 0 0 0-8.213-3.894 48.784 48.784 0 0 1-3.787-1.76c-.693-.373-1.333-.853-1.813-1.44-.32-.427-.533-.906-.533-1.386 0-.48.16-1.013.426-1.44.374-.533.96-.907 1.653-1.067 1.014-.266 2.134-.427 3.2-.374 2.027 0 4 .267 5.974.694 1.814.373 3.52.96 5.12 1.814.213.106.48.106.96 0a.656.656 0 0 0 .267-.534v-8.693c0-.214-.054-.427-.107-.64-.107-.213-.32-.427-.533-.48A18.762 18.762 0 0 0 98.4 47.04a45.98 45.98 0 0 0-6.613-.48z"/></svg>
+    </g>
+    <text class="label" x="214.0" y="194">Photoshop</text>
+  </g>
+  <g>
+    <ellipse class="shadow" cx="350.0" cy="164" rx="40.32" ry="7" style="animation-delay:-1.4s"/>
+    <g class="float" style="animation-delay:-1.4s">
+      <circle class="glow" cx="350.0" cy="82.0" r="48.0" style="animation-delay:-1.4s"/>
+      <rect x="302" y="34" width="96" height="96" rx="24" fill="url(#tile)"/>
+      <rect x="302" y="34" width="96" height="48.0" rx="24" fill="url(#gloss)"/>
+      <rect x="302.75" y="34.75" width="94.5" height="94.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+      <svg x="323.0" y="55.0" width="54" height="54" viewBox="0 0 128 128"><path fill="#1F0740" d="M6.5 6.5h115v115H6.5z"/><path fill="#D490C5" d="M0 0v128h128V0H0zm121.5 121.5H6.5V6.5h115v115z"/><path fill="#D490C5" d="M103.5 59.2s-.6-14.6-16.5-14.6c-16 0-17.3 22-17.3 22v4.7S72.5 89.6 86 89.6s14.8-2.6 14.8-2.6v-8.1s-19.3 9.2-21.2-10h24v-9.7zm-9 2.4h-15s0-8.3 7.5-9.2c8.2 0 7.5 9.2 7.5 9.2zM50.5 29.9H38.4v3.8l-16 54.9h9.4l4.4-16.1H53l4.5 16.1h10.3L50.5 29.9zM38.2 63.1l6.4-24.5L51 63.1H38.2z"/></svg>
+    </g>
+    <text class="label" x="350.0" y="194">After Effects</text>
+  </g>
+  <g>
+    <ellipse class="shadow" cx="486.0" cy="164" rx="40.32" ry="7" style="animation-delay:-2.1s"/>
+    <g class="float" style="animation-delay:-2.1s">
+      <circle class="glow" cx="486.0" cy="82.0" r="48.0" style="animation-delay:-2.1s"/>
+      <rect x="438" y="34" width="96" height="96" rx="24" fill="url(#tile)"/>
+      <rect x="438" y="34" width="96" height="48.0" rx="24" fill="url(#gloss)"/>
+      <rect x="438.75" y="34.75" width="94.5" height="94.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+      <svg x="459.0" y="55.0" width="54" height="54" viewBox="0 0 128 128"><path d="M66.332 70.032c.24-4.242 2.327-7.987 5.485-10.634 3.094-2.602 7.248-4.193 11.809-4.193 4.537 0 8.69 1.59 11.78 4.193 3.163 2.647 5.237 6.392 5.485 10.634.24 4.35-1.523 8.41-4.605 11.417-3.158 3.05-7.627 4.977-12.66 4.977-5.037 0-9.526-1.915-12.664-4.977-3.094-3.006-4.853-7.044-4.606-11.397zm0 0" fill="#235785"/><path d="M39.245 79.002c.028 1.66.564 4.89 1.36 7.404 1.682 5.336 4.537 10.273 8.49 14.599 4.062 4.465 9.074 8.055 14.85 10.61 6.073 2.67 12.665 4.037 19.505 4.037 6.84-.009 13.432-1.4 19.504-4.102 5.776-2.582 10.79-6.168 14.85-10.657 3.974-4.374 6.82-9.307 8.491-14.647a37 37 0 001.595-8.163c.208-2.69.12-5.405-.263-8.12a37.535 37.535 0 00-5.417-14.714c-2.574-4.15-5.916-7.76-9.89-10.813l.012-.004-39.955-30.506c-.036-.028-.068-.056-.104-.08-2.619-2.002-7.044-1.994-9.91.008-2.914 2.031-3.25 5.385-.656 7.496l-.012.008 16.682 13.484-50.789.051h-.068c-4.197.004-8.239 2.739-9.03 6.213-.82 3.521 2.035 6.46 6.412 6.46l-.008.016 25.736-.048L4.58 82.524c-.056.044-.12.088-.176.132C.069 85.95-1.33 91.446 1.4 94.9c2.778 3.522 8.666 3.546 13.047.02L39.505 74.51s-.368 2.758-.336 4.397zm64.56 9.219c-5.168 5.228-12.416 8.21-20.227 8.21-7.831.012-15.079-2.918-20.248-8.142-2.526-2.559-4.377-5.473-5.528-8.591a22.202 22.202 0 01-1.271-9.602 22.446 22.446 0 012.778-9.039c1.507-2.714 3.59-5.18 6.14-7.267 5.033-4.058 11.42-6.28 18.1-6.28 6.709-.008 13.097 2.174 18.13 6.236 2.55 2.075 4.625 4.529 6.14 7.243a22.302 22.302 0 012.774 9.043 22.313 22.313 0 01-1.271 9.598c-1.147 3.142-3.002 6.056-5.533 8.615zm0 0" fill="#e87500"/></svg>
+    </g>
+    <text class="label" x="486.0" y="194">Blender</text>
+  </g>
+  <g>
+    <ellipse class="shadow" cx="622.0" cy="164" rx="40.32" ry="7" style="animation-delay:-2.8s"/>
+    <g class="float" style="animation-delay:-2.8s">
+      <circle class="glow" cx="622.0" cy="82.0" r="48.0" style="animation-delay:-2.8s"/>
+      <rect x="574" y="34" width="96" height="96" rx="24" fill="url(#tile)"/>
+      <rect x="574" y="34" width="96" height="48.0" rx="24" fill="url(#gloss)"/>
+      <rect x="574.75" y="34.75" width="94.5" height="94.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+      <svg x="595.0" y="55.0" width="54" height="54" viewBox="0 0 24 24" fill="#00AE42"><path d="M12.662 24V8.959l8.535 3.369V24zm-9.859-.003v-7.521l8.534-3.371-.001 10.892zM2.803 0h8.533l.001 11.672-8.534 3.369zm9.859 0h8.535v10.892l-8.535-3.371z"/></svg>
+    </g>
+    <text class="label" x="622.0" y="194">Bambu Lab</text>
+  </g>
+</svg>

@@ -112,9 +112,11 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 **Design & 3D**
 
-[![Design](https://skillicons.dev/icons?i=figma,ps,ae,blender)](https://skillicons.dev)
+<p align="center">
+  <img src="assets/floating-tools.svg" alt="Ferramentas de design: Figma, Photoshop, After Effects, Blender e Bambu Lab" width="100%" />
+</p>
+
 ![Sony Vegas](https://img.shields.io/badge/Sony%20Vegas-000?style=for-the-badge&logoColor=A020F0)
-![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-000?style=for-the-badge&logoColor=A020F0)
 
 **Áreas que conecto no dia a dia:** front-end, back-end, sistemas internos, suporte técnico, redes, automação, design gráfico, UI/UX, branding, marketing digital, e-commerce e importação.
 
@@ -155,7 +157,10 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 * Emojis animados por <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.
 * Animação da cobrinha por <a href="https://github.com/Platane/snk">Platane/snk</a>.
 * Cidade por <a href="https://github.com/Dasmat13/git-world-action">GitWorld Engine</a>.
+* Ícones de ferramentas por <a href="https://devicon.dev">Devicon</a> e <a href="https://simpleicons.org">Simple Icons</a>; onda do rodapé por <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>.
 
   <div align="right">Feito com 💜 por <a href="https://github.com/Olukasao">Olukasao</a>.</div>
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0a6b,100:A020F0&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="Obrigado pela visita!" width="100%" />

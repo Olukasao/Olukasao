@@ -84,6 +84,10 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <p align="center"><b>Kollect Your World</b> · Animação de logo para a KollectBR</p>
 
+<p align="center"><sub>▶ Assista em 1080p com som:</sub></p>
+
+https://github.com/user-attachments/assets/d49b200d-aa02-4bf8-a244-8bf630b3a1e2
+
 <br>
 
 <h3 align="left">💼 Experiência</h3>

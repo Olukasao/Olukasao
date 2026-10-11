@@ -87,8 +87,13 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 <h3 align="left">🎬 Motion Design</h3>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/0892d8b7-0a92-4673-98f9-368cf5731d67"><img src="assets/motion/cover-kollect-your-world.svg" alt="Assistir: Kollect Your World, animação de logo da KollectBR" width="49%" /></a>
-  <a href="https://github.com/user-attachments/assets/5ef339ff-02f4-42ef-aa2e-3f7f66b7e1cd"><img src="assets/motion/cover-chat-interno.svg" alt="Assistir: Chat Interno, motion de interface da Acessanet" width="49%" /></a>
+  <a href="https://github.com/user-attachments/assets/0892d8b7-0a92-4673-98f9-368cf5731d67"><img src="assets/motion/cover-kollect-your-world.svg?v=2" alt="Assistir: Kollect Your World, animação de logo da KollectBR" width="49%" /></a>
+  <a href="https://github.com/user-attachments/assets/5ef339ff-02f4-42ef-aa2e-3f7f66b7e1cd"><img src="assets/motion/cover-chat-interno.svg?v=2" alt="Assistir: Chat Interno, motion de interface da Acessanet" width="49%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/788e6c0b-b349-44d0-b460-41888fa52d35"><img src="assets/motion/cover-central-assinante.svg?v=2" alt="Assistir: Central do Assinante, motion de produto da Acessanet" width="49%" /></a>
+  <a href="https://github.com/user-attachments/assets/d3eb71a4-ff51-4815-9bbe-ac3ad3120ce5"><img src="assets/motion/cover-agenda-tecnicos.svg?v=2" alt="Assistir: Agenda de Técnicos, motion de produto da Acessanet" width="49%" /></a>
 </p>
 
 <p align="center"><sub>▶ Clique em uma capa para assistir em 1080p</sub></p>

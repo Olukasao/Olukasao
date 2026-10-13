@@ -75,25 +75,6 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   </tr>
   <tr>
     <td>
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" alt="Balança" width="24" height="24" align="center" /> Assistente Jurídico</h4>
-      <p>
-        Aplicativo desktop para Windows e macOS que organiza rotinas jurídicas e prompts de IA. Gera .exe e .app, com build automático para Mac no GitHub Actions.
-      </p>
-      <p><strong>Stack:</strong> Python · PyInstaller · GitHub Actions</p>
-      <p><a href="https://github.com/Olukasao/SistemaJuridico">Ver repositório</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Paleta" width="24" height="24" align="center" /> Rebranding e Artes Visuais Acessanet</h4>
-      <p>
-        Rebranding visual do site e da comunicação digital da marca: banners, campanhas promocionais, peças comerciais e institucionais e padronização visual para redes sociais.
-      </p>
-      <p><strong>Ferramentas:</strong> Photoshop · Figma · branding · social media</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Caixa" width="24" height="24" align="center" /> KollectBR</h4>
       <p>
         Loja de colecionáveis, figures, Funkos, peças 3D e produtos geek/anime. Cuido de branding, vendas, conteúdo, importação, gestão de produtos e ativações presenciais em eventos automotivos, gastronômicos, feiras e exposições.

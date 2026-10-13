@@ -14,6 +14,8 @@ https://github.com/user-attachments/assets/d0d2338f-44f4-4e61-8473-62421720b99a
 
 <br>
 
+<img src="assets/blur-reveal-header.svg" alt="Dev Full-stack · Designer · Fundador da KollectBR" />
+
 **Desenvolvedor full-stack e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**
 
 Crio sistemas internos, sites e interfaces que unem **programação, design e marketing**: do layout no Figma ao deploy com Node.js, PM2 e Nginx. Gosto de transformar ideias em soluções que realmente ajudam empresas e equipes no dia a dia.

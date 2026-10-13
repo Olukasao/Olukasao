@@ -166,7 +166,11 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 <img src="assets/skills/video.svg" alt="Sony Vegas" height="48" />
 
-**Integrações:** SGP (gestão de provedor), OLT Cloud, rastreamento GPS, geocodificação (Nominatim), ViaCEP, Nuvemshop, e-mail transacional (Nodemailer) e WhatsApp.
+**Integrações**
+
+<p align="center">
+  <img src="assets/integracoes.svg" alt="Integrações: SGP (gestão do provedor), OLT Cloud (alertas da rede), rastreio GPS dos técnicos, Nominatim (geocodificação), ViaCEP, Nuvemshop, Nodemailer (e-mail transacional) e WhatsApp" width="100%" />
+</p>
 
 <br>
 

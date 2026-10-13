@@ -113,6 +113,39 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   </a>
 </p>
 
+<h4 align="left">O que já criei</h4>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Marca & impressos</strong><br>
+      <sub>Rebranding de logo · cartão de visita · panfleto · cardápio de restaurante · caixa e embalagem personalizada · adesivagem de frota</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Varejo & campanhas</strong><br>
+      <sub>Design para loja de carros · marcas de narguilé · social media e layouts para Instagram · artes de campanha e datas comemorativas</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Streaming & games</strong><br>
+      <sub>Artes para canais da Twitch e do YouTube · times de e-sports · servidores do Discord · overlays e aberturas de live</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Motion</strong><br>
+      <sub>Motion para eventos famosos · filmes de marca · vídeos de produto e de sistemas · GIFs animados</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Interfaces</strong><br>
+      <sub>Sites, portais e sistemas internos: do layout no Figma ao código em produção</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Fotomanipulação</strong><br>
+      <sub>Composições de produto e cenário, tratamento de imagem e direção de arte para colecionáveis</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Claquete" width="28" height="28" align="center" /> Motion Design</h3>

@@ -140,38 +140,23 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 
 **Linguagens**
 
-[![Linguagens](https://skillicons.dev/icons?i=js,ts,python,html,css,c)](https://skillicons.dev)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logoColor=A020F0)
-![Shell](https://img.shields.io/badge/Shell%20%2F%20PowerShell-000?style=for-the-badge&logo=gnubash&logoColor=A020F0)
+<img src="assets/skills/linguagens.svg" alt="JavaScript, TypeScript, Python, HTML, CSS, C, SQL, Bash e PowerShell" height="48" />
 
 **Front-end**
 
-[![Front-end](https://skillicons.dev/icons?i=react,vite,tailwind,threejs)](https://skillicons.dev)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=A020F0)
-![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock&logoColor=A020F0)
-![Leaflet](https://img.shields.io/badge/Leaflet-000?style=for-the-badge&logo=leaflet&logoColor=A020F0)
+<img src="assets/skills/frontend.svg" alt="React, Vite, Tailwind CSS, three.js, Framer Motion, GSAP e Leaflet" height="48" />
 
 **Back-end & Banco de Dados**
 
-[![Back-end](https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=A020F0)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio&logoColor=A020F0)
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=A020F0)
-![Zod](https://img.shields.io/badge/Zod-000?style=for-the-badge&logo=zod&logoColor=A020F0)
+<img src="assets/skills/backend.svg" alt="Node.js, Express, Fastify, Socket.IO, Prisma, Zod, MySQL, MariaDB, PostgreSQL, SQLite e MongoDB" height="48" />
 
 **Testes**
 
-[![Testes](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
-![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logoColor=A020F0)
+<img src="assets/skills/testes.svg" alt="Vitest e Playwright" height="48" />
 
 **Infra, Deploy & Versionamento**
 
-[![Infra](https://skillicons.dev/icons?i=git,github,githubactions,linux,nginx,vercel)](https://skillicons.dev)
-![Hostinger](https://img.shields.io/badge/Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=A020F0)
-![systemd](https://img.shields.io/badge/systemd-000?style=for-the-badge&logoColor=A020F0)
-![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2&logoColor=A020F0)
-![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge&logoColor=A020F0)
-![VPS](https://img.shields.io/badge/VPS%20%2F%20VM-000?style=for-the-badge&logoColor=A020F0)
+<img src="assets/skills/infra.svg" alt="Git, GitHub, GitHub Actions, Linux, Nginx, Vercel, Hostinger, PM2, systemd, SSH e VPS" height="48" />
 
 **Design & 3D**
 
@@ -179,7 +164,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
   <img src="assets/floating-tools.svg" alt="Ferramentas de design: Figma, Photoshop, After Effects, Blender e Bambu Lab" width="100%" />
 </p>
 
-![Sony Vegas](https://img.shields.io/badge/Sony%20Vegas-000?style=for-the-badge&logoColor=A020F0)
+<img src="assets/skills/video.svg" alt="Sony Vegas" height="48" />
 
 **Integrações:** SGP (gestão de provedor), OLT Cloud, rastreamento GPS, geocodificação (Nominatim), ViaCEP, Nuvemshop, e-mail transacional (Nodemailer) e WhatsApp.
 
@@ -218,7 +203,7 @@ Práticas que aplico nos sistemas que desenvolvo:
 <details align="left">
   <summary>Créditos</summary>
 
-* Badges por <a href="https://shields.io/">shields.io</a> e ícones por <a href="https://skillicons.dev">skillicons.dev</a>.
+* Badges por <a href="https://shields.io/">shields.io</a>; ícones da Stack gerados por <code>scripts/build_skill_rows.py</code> a partir de <a href="https://skillicons.dev">skillicons.dev</a>, <a href="https://simpleicons.org">Simple Icons</a>, <a href="https://devicon.dev">Devicon</a> e <a href="https://lucide.dev">Lucide</a>.
 * Estatísticas geradas por <code>scripts/build_stats.py</code> (GitHub GraphQL API); contador de visitas por <a href="https://komarev.com/github-profile-views-counter/">komarev</a>.
 * Emojis animados por <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.
 * Cidade por <a href="https://github.com/Dasmat13/git-world-action">GitWorld Engine</a>.

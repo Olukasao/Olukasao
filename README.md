@@ -2,7 +2,11 @@
   <img src="assets/showreel/showreel-title.svg" alt="LUCAS SOARES · Showreel 2026 · Design. Code. Experience." width="100%" />
 </p>
 
-https://github.com/user-attachments/assets/79505714-8d10-4e5c-a474-ff7eac5d7419
+
+
+https://github.com/user-attachments/assets/d0d2338f-44f4-4e61-8473-62421720b99a
+
+
 
 <p align="center">
   <img src="assets/showreel/showreel-footer.svg" alt="Assista com som: AcessaNet, Kollect, Projecta, Intranet, Agenda de Técnicos, Connect, PodPoint e TwistNet" width="100%" />

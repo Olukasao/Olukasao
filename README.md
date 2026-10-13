@@ -1,8 +1,14 @@
-
+<p align="center">
+  <img src="assets/showreel/showreel-title.svg" alt="LUCAS SOARES · Showreel 2026 · Design. Code. Experience." width="100%" />
+</p>
 
 https://github.com/user-attachments/assets/79505714-8d10-4e5c-a474-ff7eac5d7419
 
+<p align="center">
+  <img src="assets/showreel/showreel-footer.svg" alt="Assista com som: AcessaNet, Kollect, Projecta, Intranet, Agenda de Técnicos, Connect, PodPoint e TwistNet" width="100%" />
+</p>
 
+<br>
 
 <img src="assets/blur-reveal-header.svg" alt="Olá, eu sou o Lucas Soares! 👾 Dev Full-stack · Designer · Fundador da KollectBR" />
 

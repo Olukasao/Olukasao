@@ -29,16 +29,58 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
       <p>
         Sistema interno completo de comunicação, atendimento e suporte técnico de redes: conversas e grupos com envio de imagens, arquivos e áudios, comunicados e alertas em tempo real, agenda técnica, controle de plantão, páginas de procedimentos e treinamentos, cursos internos, área de vendas, permissões administrativas e tema claro/escuro.
       </p>
-      <p><strong>Stack:</strong> React · Node.js · banco de dados · APIs · UI/UX</p>
+      <p><strong>Stack:</strong> React 19 · Vite · Tailwind · Node.js · Express 5 · Socket.IO · MySQL · JWT · bcrypt · Helmet · PM2/systemd</p>
+      <p><a href="https://github.com/Olukasao/Intranet---Corporate-Workspace">Ver repositório</a></p>
     </td>
   </tr>
   <tr>
     <td>
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Prédio" width="24" height="24" align="center" /> Site Projecta Empreendimentos</h4>
       <p>
-        Site institucional com divulgação de imóveis, navegação moderna e painel administrativo para cadastro e gestão dos empreendimentos, do layout até o deploy.
+        Portal imobiliário com cadastro único de imóveis, publicação no site, gestão de leads, usuários, corretores e proprietários, auditoria e permissões por cargo, do layout até o deploy.
       </p>
-      <p><strong>Stack:</strong> front-end · back-end · banco de dados · deploy · UI/UX</p>
+      <p><strong>Stack:</strong> React · Vite · Tailwind · Node.js · Express · Prisma · MariaDB/MySQL · Zod · JWT · Sharp · Nginx</p>
+      <p><a href="https://github.com/Olukasao/Projecta2">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globo" width="24" height="24" align="center" /> Site AcessaNet + Central do Assinante</h4>
+      <p>
+        Site institucional do provedor com área do cliente (faturas, chamados com triagem automática, promessa de pagamento, assinatura de documentos, status da rede) e painel administrativo. Backend integrado ao SGP e à OLT Cloud para detectar incidentes de rede. O site novo traz a Terra em 3D com three.js.
+      </p>
+      <p><strong>Stack:</strong> React · Vite · three.js · GSAP · TypeScript · Fastify · Zod · MySQL/SQLite · Vitest</p>
+      <p><a href="https://site-acessa-net-v2-rebranding.vercel.app">Ver site</a> · <a href="https://github.com/Olukasao/SiteAcessaNetV2">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="Mapa" width="24" height="24" align="center" /> Agenda de Técnicos · Acessanet Telecom</h4>
+      <p>
+        Painel de NOC para a equipe de campo: agenda de ordens de serviço, turnos e ausências, GPS dos técnicos em tempo real, mapa de chamados com geocodificação automática, sugestão e comparação de rotas e indicadores de chamados críticos.
+      </p>
+      <p><strong>Stack:</strong> Node.js · Express · Socket.IO · MariaDB · Leaflet · migrations SQL · Playwright</p>
+      <p><a href="https://github.com/Olukasao/Agenda-tecnicos">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computador" width="24" height="24" align="center" /> Site KollectBR</h4>
+      <p>
+        Site estático da loja, gerado por um build próprio em Node.js sem framework: catálogo sincronizado com a loja virtual (Nuvemshop), imagens otimizadas em AVIF/WebP, filme da marca no topo e cartas holográficas.
+      </p>
+      <p><strong>Stack:</strong> JavaScript · Node.js · Sharp · HTML/CSS · Vercel</p>
+      <p><a href="https://kollect-site.vercel.app">Ver site</a> · <a href="https://github.com/Olukasao/Kollect-Site">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" alt="Balança" width="24" height="24" align="center" /> Assistente Jurídico</h4>
+      <p>
+        Aplicativo desktop para Windows e macOS que organiza rotinas jurídicas e prompts de IA. Gera .exe e .app, com build automático para Mac no GitHub Actions.
+      </p>
+      <p><strong>Stack:</strong> Python · PyInstaller · GitHub Actions</p>
+      <p><a href="https://github.com/Olukasao/SistemaJuridico">Ver repositório</a></p>
     </td>
   </tr>
   <tr>
@@ -90,22 +132,43 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 - **Designer freelancer**: identidade visual, campanhas e social media para Hookah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
 - **T.I (PJ) · MK Academy**: suporte técnico a várias filiais, manutenção, configuração de sistemas e criação de soluções internas
 - **Marketing · Ortobom**: criação de conteúdo, peças visuais e campanhas de divulgação
+- **Projetos acadêmicos e pessoais**: rebranding do site da Unianchieta (HTML, CSS, JavaScript e JSON Server), CRUD em Python com MongoDB feito em equipe e bot de Discord em Node.js com discord.js
 
 <br>
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Ferramentas" width="28" height="28" align="center" /> Stack</h3>
 
+**Linguagens**
+
+[![Linguagens](https://skillicons.dev/icons?i=js,ts,python,html,css,c)](https://skillicons.dev)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logoColor=A020F0)
+![Shell](https://img.shields.io/badge/Shell%20%2F%20PowerShell-000?style=for-the-badge&logo=gnubash&logoColor=A020F0)
+
 **Front-end**
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,js,react,vite)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=react,vite,tailwind,threejs)](https://skillicons.dev)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=A020F0)
+![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock&logoColor=A020F0)
+![Leaflet](https://img.shields.io/badge/Leaflet-000?style=for-the-badge&logo=leaflet&logoColor=A020F0)
 
 **Back-end & Banco de Dados**
 
-[![Back-end](https://skillicons.dev/icons?i=nodejs,mysql,postgres,c)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=A020F0)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio&logoColor=A020F0)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=A020F0)
+![Zod](https://img.shields.io/badge/Zod-000?style=for-the-badge&logo=zod&logoColor=A020F0)
 
-**Infra & Versionamento**
+**Testes**
 
-[![Infra](https://skillicons.dev/icons?i=git,github,linux,nginx)](https://skillicons.dev)
+[![Testes](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
+![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logoColor=A020F0)
+
+**Infra, Deploy & Versionamento**
+
+[![Infra](https://skillicons.dev/icons?i=git,github,githubactions,linux,nginx,vercel)](https://skillicons.dev)
+![Hostinger](https://img.shields.io/badge/Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=A020F0)
+![systemd](https://img.shields.io/badge/systemd-000?style=for-the-badge&logoColor=A020F0)
 ![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2&logoColor=A020F0)
 ![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge&logoColor=A020F0)
 ![VPS](https://img.shields.io/badge/VPS%20%2F%20VM-000?style=for-the-badge&logoColor=A020F0)
@@ -117,6 +180,21 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 </p>
 
 ![Sony Vegas](https://img.shields.io/badge/Sony%20Vegas-000?style=for-the-badge&logoColor=A020F0)
+
+**Integrações:** SGP (gestão de provedor), OLT Cloud, rastreamento GPS, geocodificação (Nominatim), ViaCEP, Nuvemshop, e-mail transacional (Nodemailer) e WhatsApp.
+
+<br>
+
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Cadeado" width="28" height="28" align="center" /> Segurança</h3>
+
+Práticas que aplico nos sistemas que desenvolvo:
+
+- **Autenticação:** senhas com hash (bcrypt), JWT com segredo forte obrigatório em produção, política de senha, troca obrigatória no primeiro acesso, OTP por e-mail e limite de tentativas de login
+- **Autorização:** permissões por perfil e cargo e checagem de posse dos dados em cada rota
+- **Proteção da API:** Helmet, CORS restrito, rate limit, validação de entrada com Zod e sanitização contra XSS e injeção
+- **Rastreabilidade:** logs de auditoria das ações administrativas e controle de sessões
+- **Segredos e dados:** credenciais só em `.env` (fora do Git), `.env.example` documentado e dados reais, uploads e backups fora do repositório
+- **Deploy seguro:** HTTPS, deploy atômico (sem misturar arquivos de versões diferentes) e backup do banco antes de cada publicação
 
 **Áreas que conecto no dia a dia:** front-end, back-end, sistemas internos, suporte técnico, redes, automação, design gráfico, UI/UX, branding, marketing digital, e-commerce e importação.
 

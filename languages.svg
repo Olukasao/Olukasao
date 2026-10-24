@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="Linguagens mais usadas: JavaScript 58.0%, HTML 19.2%, CSS 12.1%, TypeScript 6.9%, Python 3.7%, Shell 0.0%">
+  <style>
+    .card { fill: none; stroke: #A020F0; stroke-opacity: .35; }
+    .title { font: 700 17px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #A020F0; }
+    .label { font: 500 13px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #59636e; }
+    .value { font: 700 14px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .icon { fill: #A020F0; }
+    .track { fill: #8b949e; fill-opacity: .2; }
+    .row { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    .grow { transform-box: fill-box; transform-origin: left; animation: grow 1s cubic-bezier(.2,.8,.2,1) forwards; transform: scaleX(0); }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #c27bff; }
+      .label { fill: #9198a1; }
+      .value { fill: #f0f6fc; }
+    }
+  </style>
+  <rect class="card" x=".5" y=".5" width="439" height="199" rx="16"/>
+  <text class="title" x="24" y="38">Linguagens mais usadas</text>
+  <clipPath id="bar"><rect x="24" y="62" width="392" height="10" rx="5"/></clipPath>
+  <rect class="track" x="24" y="62" width="392" height="10" rx="5"/>
+  <g clip-path="url(#bar)"><g class="grow"><rect x="24.0" y="62" width="227.3" height="10" fill="#f1e05a"/><rect x="251.3" y="62" width="75.2" height="10" fill="#e34c26"/><rect x="326.5" y="62" width="47.5" height="10" fill="#663399"/><rect x="374.0" y="62" width="27.2" height="10" fill="#3178c6"/><rect x="401.2" y="62" width="14.6" height="10" fill="#3572A5"/><rect x="415.7" y="62" width="2.0" height="10" fill="#89e051"/></g></g>
+  <g class="row" style="animation-delay:0.40s">
+    <circle cx="29" cy="100" r="5" fill="#f1e05a"/>
+    <text class="value" x="42" y="104">JavaScript</text>
+    <text class="label" x="204" y="104" text-anchor="end">58.0%</text>
+  </g>
+  <g class="row" style="animation-delay:0.48s">
+    <circle cx="29" cy="130" r="5" fill="#e34c26"/>
+    <text class="value" x="42" y="134">HTML</text>
+    <text class="label" x="204" y="134" text-anchor="end">19.2%</text>
+  </g>
+  <g class="row" style="animation-delay:0.56s">
+    <circle cx="29" cy="160" r="5" fill="#663399"/>
+    <text class="value" x="42" y="164">CSS</text>
+    <text class="label" x="204" y="164" text-anchor="end">12.1%</text>
+  </g>
+  <g class="row" style="animation-delay:0.64s">
+    <circle cx="237" cy="100" r="5" fill="#3178c6"/>
+    <text class="value" x="250" y="104">TypeScript</text>
+    <text class="label" x="412" y="104" text-anchor="end">6.9%</text>
+  </g>
+  <g class="row" style="animation-delay:0.72s">
+    <circle cx="237" cy="130" r="5" fill="#3572A5"/>
+    <text class="value" x="250" y="134">Python</text>
+    <text class="label" x="412" y="134" text-anchor="end">3.7%</text>
+  </g>
+  <g class="row" style="animation-delay:0.80s">
+    <circle cx="237" cy="160" r="5" fill="#89e051"/>
+    <text class="value" x="250" y="164">Shell</text>
+    <text class="label" x="412" y="164" text-anchor="end">0.0%</text>
+  </g>
+</svg>

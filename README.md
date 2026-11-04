@@ -22,6 +22,8 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
 
 - 🔭 Atualmente desenvolvendo soluções digitais para empresas: sistemas internos, sites, apps mobile e automações
 - 📱 Experiência em gerenciar, desenvolver e lançar apps para Android e iOS: do planejamento à publicação nas lojas e às atualizações
+- 🖥️ Também construo **aplicativos desktop (Electron)**, com **telefonia SIP em C++**, atualização automática assinada e integrações com os sistemas da operação
+- 🛰️ Atuo com **infraestrutura de redes**: coleta e histórico de rotas **BGP via BMP**, com Docker, PostgreSQL e Grafana
 - 🎨 Designer freelancer para marcas, restaurantes, times de e-sports e streamers da Twitch
 - 🧊 Tocando a KollectBR: colecionáveis, figures, Funkos e impressão 3D
 - 🌎 Português (nativo) · Inglês (avançado) · Espanhol (básico)
@@ -42,6 +44,56 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
 <table>
   <tr>
     <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Notebook" width="24" height="24" align="center" /> Workscape · Plataforma desktop para provedor de internet</h4>
+      <p>
+        Aplicativo desktop que reúne o dia a dia da operação: chat interno, agenda de técnicos, painel de NOC, ferramentas de rede, <strong>softphone SIP próprio</strong>, assistente de IA (com modelo local opcional) e módulo de cursos com provas e certificados. Atualização automática com <strong>assinatura verificada</strong>, comunicação entre processos validada com Zod, janelas destacáveis e telefone isolado em processo separado.
+      </p>
+      <p><strong>Stack:</strong> Electron · React 19 · TypeScript · Vite · Zustand · Tailwind · Socket.IO · Zod · Vitest · Playwright · electron-builder</p>
+      <p><a href="https://github.com/Olukasao/Workscape_Platform">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Telefone" width="24" height="24" align="center" /> Workscape Phone Engine · Motor de softphone SIP</h4>
+      <p>
+        Motor de telefonia em <strong>C++17</strong> sobre PJSIP/PJSUA2, rodando em processo separado e controlado por um protocolo JSON por linhas. Registro, chamadas de entrada e saída, mudo, espera, transferência, DTMF, Não perturbe e níveis de áudio em tempo real. O build de Windows roda no GitHub Actions, com o PJSIP baixado por versão fixa e o hash SHA-256 conferido. Registro e chamada validados contra uma central SIP real.
+      </p>
+      <p><strong>Stack:</strong> C++17 · PJSIP/PJSUA2 · SIP · RTP · MSVC · GitHub Actions</p>
+      <p><a href="https://github.com/Olukasao/Workscape_Phone_Engine">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Fone de ouvido" width="24" height="24" align="center" /> Support Console · Painel de atendimento em tempo real</h4>
+      <p>
+        Console web para atendentes responderem clientes que conversam pelo chat de um app. Fila com SLA visual e prioridade automática, categorias, <strong>macros</strong> acionadas por atalho, <strong>automações</strong> QUANDO → SE → ENTÃO, monitoramento da operação, auditoria e controle por cargo. Somente frontend, com sessão decidida pelo servidor e modo de demonstração para desenvolvimento.
+      </p>
+      <p><strong>Stack:</strong> React 19 · TypeScript · Vite · React Router · Socket.IO · Oxlint</p>
+      <p><a href="https://github.com/Olukasao/support-console-App_de_Atendimento_ao_Cliente">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Antena" width="24" height="24" align="center" /> BGP Timeline · Monitoramento de rotas com OpenBMP</h4>
+      <p>
+        Implantação isolada e endurecida do OpenBMP para acompanhar rotas BGP via protocolo BMP (RFC 7854). Segredos fora do Git, serviços internos presos em localhost, usuário somente leitura para o Grafana, permissões por container sem <code>chmod 777</code> e scripts que nunca apagam volumes. Estado e histórico das atualizações ficam no PostgreSQL, com dashboard provisionado.
+      </p>
+      <p><strong>Stack:</strong> OpenBMP · BGP/BMP · Docker Compose · Kafka · PostgreSQL (TimescaleDB) · Grafana</p>
+      <p><a href="https://github.com/Olukasao/bgp-timeline">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" alt="Televisão" width="24" height="24" align="center" /> Motion Player · Player de vídeos para TV</h4>
+      <p>
+        Player independente que toca uma playlist de vídeos em loop na TV, pela rede local. A lista se monta sozinha ao copiar arquivos para uma pasta, os controles somem quando não usados e o servidor suporta requisições parciais de vídeo. Node.js puro, sem dependências e sem build.
+      </p>
+      <p><strong>Stack:</strong> Node.js · HTML/CSS/JavaScript · PM2</p>
+      <p><a href="https://github.com/Olukasao/Motion_Player">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Celular" width="24" height="24" align="center" /> App AcessaNet · Central do Assinante</h4>
       <p>
         App mobile da Central do Assinante (Android e iPhone): faturas, boleto e PIX, chamados, status da rede, notificações push, deep links, aviso de offline e atualização obrigatória de versão. Tokens da sessão guardados no Keystore do aparelho, CSP, links externos só por domínios permitidos, build de release assinado com R8 e adequação à LGPD. Cuidei do ciclo inteiro: ícone e splash, ficha da loja, formulário de segurança dos dados, notas de versão e publicação.
@@ -57,17 +109,17 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
         Sistema interno completo de comunicação, atendimento e suporte técnico de redes: conversas e grupos com envio de imagens, arquivos e áudios, comunicados e alertas em tempo real, agenda técnica, controle de plantão, páginas de procedimentos e treinamentos, cursos internos, área de vendas, permissões administrativas e tema claro/escuro.
       </p>
       <p><strong>Stack:</strong> React 19 · Vite · Tailwind · Node.js · Express 5 · Socket.IO · MySQL · JWT · bcrypt · Helmet · PM2/systemd</p>
-      <p><a href="https://github.com/Olukasao/Intranet---Corporate-Workspace">Ver repositório</a></p>
+      <p><a href="https://github.com/Olukasao/Corporate_Chat_Platform">Ver repositório</a></p>
     </td>
   </tr>
   <tr>
     <td>
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Prédio" width="24" height="24" align="center" /> Site Projecta Empreendimentos</h4>
       <p>
-        Portal imobiliário com cadastro único de imóveis, publicação no site, gestão de leads, usuários, corretores e proprietários, auditoria e permissões por cargo, do layout até o deploy.
+        Portal imobiliário com <strong>rebranding completo feito do zero</strong>: cadastro único de imóveis, publicação no site, gestão de leads, usuários, corretores e proprietários, auditoria e permissões por cargo, do layout até o deploy.
       </p>
       <p><strong>Stack:</strong> React · Vite · Tailwind · Node.js · Express · Prisma · MariaDB/MySQL · Zod · JWT · Sharp · Nginx</p>
-      <p><a href="https://github.com/Olukasao/Projecta2">Ver repositório</a></p>
+      <p><a href="https://github.com/Olukasao/Site_Projecta_V2">Ver repositório</a></p>
     </td>
   </tr>
   <tr>
@@ -77,7 +129,7 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
         Site institucional do provedor com área do cliente (faturas, chamados com triagem automática, promessa de pagamento, assinatura de documentos, status da rede) e painel administrativo. Backend integrado ao SGP e à OLT Cloud para detectar incidentes de rede. O site novo traz a Terra em 3D com three.js.
       </p>
       <p><strong>Stack:</strong> React · Vite · three.js · GSAP · TypeScript · Fastify · Zod · MySQL/SQLite · Vitest</p>
-      <p><a href="https://site-acessa-net-v2-rebranding.vercel.app">Ver site</a> · <a href="https://github.com/Olukasao/SiteAcessaNetV2">Ver repositório</a></p>
+      <p><a href="https://site-acessa-net-v2-rebranding.vercel.app">Ver site</a> · <a href="https://github.com/Olukasao/Site_Acessa_Net">Ver repositório</a></p>
     </td>
   </tr>
   <tr>
@@ -87,7 +139,6 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
         Painel de NOC para a equipe de campo: agenda de ordens de serviço, turnos e ausências, GPS dos técnicos em tempo real, mapa de chamados com geocodificação automática, sugestão e comparação de rotas e indicadores de chamados críticos.
       </p>
       <p><strong>Stack:</strong> Node.js · Express · Socket.IO · MariaDB · Leaflet · migrations SQL · Playwright</p>
-      <p><a href="https://github.com/Olukasao/Agenda-tecnicos">Ver repositório</a></p>
     </td>
   </tr>
   <tr>
@@ -171,6 +222,9 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
 
 - **Programação, Marketing & Design · Dias Gestão** *(atual)*: desenvolvimento de sistemas e sites, marketing digital e design para os clientes Acessanet e Projecta Empreendimentos
 - **Desenvolvimento e lançamento de apps mobile (Android e iOS)**: gestão do projeto do começo ao fim (escopo, versões e prazos), desenvolvimento, testes em aparelhos reais, assinatura dos builds, publicação e atualizações na Google Play Console e na App Store Connect, ficha da loja, políticas de privacidade e segurança dos dados
+- **Aplicativo desktop (Electron) e telefonia SIP**: arquitetura, interface e backend de uma plataforma interna para provedor de internet, com softphone próprio em C++ (PJSIP), atualização automática assinada, build e distribuição automatizados no GitHub Actions
+- **Painéis de atendimento em tempo real**: console com Socket.IO, fila com SLA, macros e automações, controle por cargo e testes automatizados
+- **Infraestrutura de redes**: implantação e endurecimento de uma pilha de monitoramento BGP (OpenBMP, Kafka, PostgreSQL, Grafana) com Docker, mínimo privilégio e firewall
 - **Designer freelancer**: identidade visual, campanhas e social media para Hookah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
 - **T.I (PJ) · MK Academy**: suporte técnico a várias filiais, manutenção, configuração de sistemas e criação de soluções internas
 - **Marketing · Ortobom**: criação de conteúdo, peças visuais e campanhas de divulgação
@@ -199,6 +253,23 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
 **Back-end & Banco de Dados**
 
 <img src="assets/skills/backend.svg" alt="Node.js, Express, Fastify, Socket.IO, Prisma, Zod, MySQL, MariaDB, PostgreSQL, SQLite e MongoDB" height="48" />
+
+**Desktop & Telefonia**
+
+![Electron](https://img.shields.io/badge/Electron-242938?style=flat-square&logo=electron&logoColor=47848F)
+![C++](https://img.shields.io/badge/C%2B%2B17-242938?style=flat-square&logo=cplusplus&logoColor=00599C)
+![PJSIP](https://img.shields.io/badge/PJSIP%20%2F%20PJSUA2-242938?style=flat-square)
+![SIP](https://img.shields.io/badge/SIP%20%2F%20RTP-242938?style=flat-square)
+![electron-builder](https://img.shields.io/badge/electron--builder-242938?style=flat-square&logo=electron&logoColor=47848F)
+
+**Redes & Observabilidade**
+
+![BGP](https://img.shields.io/badge/BGP%20%2F%20BMP-242938?style=flat-square)
+![OpenBMP](https://img.shields.io/badge/OpenBMP-242938?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker%20Compose-242938?style=flat-square&logo=docker&logoColor=2496ED)
+![Kafka](https://img.shields.io/badge/Kafka-242938?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242938?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Grafana](https://img.shields.io/badge/Grafana-242938?style=flat-square&logo=grafana&logoColor=F46800)
 
 **Testes**
 
@@ -232,6 +303,9 @@ Práticas que aplico nos sistemas que desenvolvo:
 - **Autorização:** permissões por perfil e cargo e checagem de posse dos dados em cada rota
 - **Proteção da API:** Helmet, CORS restrito, rate limit, validação de entrada com Zod e sanitização contra XSS e injeção
 - **Rastreabilidade:** logs de auditoria das ações administrativas e controle de sessões
+- **Atualizações assinadas:** o app desktop só instala versões com assinatura válida, com chave pública embutida e política de versão mínima
+- **Isolamento e IPC validado:** processos separados (por exemplo, o telefone), canais entre processos validados com Zod e senha de ramal só em memória
+- **Infraestrutura:** serviços internos presos em localhost, usuário de banco somente leitura, permissões por container sem `chmod 777` e porta pública restrita por firewall
 - **Segredos e dados:** credenciais só em `.env` (fora do Git), `.env.example` documentado e dados reais, uploads e backups fora do repositório
 - **Deploy seguro:** HTTPS, deploy atômico (sem misturar arquivos de versões diferentes) e backup do banco antes de cada publicação
 

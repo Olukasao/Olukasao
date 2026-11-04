@@ -18,9 +18,10 @@ https://github.com/user-attachments/assets/d0d2338f-44f4-4e61-8473-62421720b99a
 
 **Desenvolvedor full-stack e designer gráfico** · Estudante de Ciência da Computação na Faculdade Anchieta · Fundador da **KollectBR**
 
-Crio sistemas internos, sites e interfaces que unem **programação, design e marketing**: do layout no Figma ao deploy com Node.js, PM2 e Nginx. Gosto de transformar ideias em soluções que realmente ajudam empresas e equipes no dia a dia.
+Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces que unem **programação, design e marketing**: do layout no Figma ao deploy com Node.js, PM2 e Nginx, e até a publicação na Google Play e na App Store. Gosto de transformar ideias em soluções que realmente ajudam empresas e equipes no dia a dia.
 
-- 🔭 Atualmente desenvolvendo soluções digitais para empresas: sistemas internos, sites e automações
+- 🔭 Atualmente desenvolvendo soluções digitais para empresas: sistemas internos, sites, apps mobile e automações
+- 📱 Experiência em gerenciar, desenvolver e lançar apps para Android e iOS: do planejamento à publicação nas lojas e às atualizações
 - 🎨 Designer freelancer para marcas, restaurantes, times de e-sports e streamers da Twitch
 - 🧊 Tocando a KollectBR: colecionáveis, figures, Funkos e impressão 3D
 - 🌎 Português (nativo) · Inglês (avançado) · Espanhol (básico)
@@ -39,6 +40,16 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 <img src="assets/blur-reveal-projetos.svg" alt="Sistemas internos · Sites · Rebranding · E-commerce" />
 
 <table>
+  <tr>
+    <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Celular" width="24" height="24" align="center" /> App AcessaNet · Central do Assinante</h4>
+      <p>
+        App mobile da Central do Assinante (Android e iPhone): faturas, boleto e PIX, chamados, status da rede, notificações push, deep links, aviso de offline e atualização obrigatória de versão. Tokens da sessão guardados no Keystore do aparelho, CSP, links externos só por domínios permitidos, build de release assinado com R8 e adequação à LGPD. Cuidei do ciclo inteiro: ícone e splash, ficha da loja, formulário de segurança dos dados, notas de versão e publicação.
+      </p>
+      <p><strong>Stack:</strong> React · Vite · Capacitor · Android (Gradle, AAB, R8) · iOS · Push Notifications · Secure Storage</p>
+      <p><a href="https://github.com/Olukasao/AcessaNet-App-Android">Ver repositório</a></p>
+    </td>
+  </tr>
   <tr>
     <td>
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Balão de fala" width="24" height="24" align="center" /> Chat Interno Acessanet</h4>
@@ -159,6 +170,7 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Maleta" width="28" height="28" align="center" /> Experiência</h3>
 
 - **Programação, Marketing & Design · Dias Gestão** *(atual)*: desenvolvimento de sistemas e sites, marketing digital e design para os clientes Acessanet e Projecta Empreendimentos
+- **Desenvolvimento e lançamento de apps mobile (Android e iOS)**: gestão do projeto do começo ao fim (escopo, versões e prazos), desenvolvimento, testes em aparelhos reais, assinatura dos builds, publicação e atualizações na Google Play Console e na App Store Connect, ficha da loja, políticas de privacidade e segurança dos dados
 - **Designer freelancer**: identidade visual, campanhas e social media para Hookah Like, Dreams Car, times de e-sports, streamers da Twitch e restaurantes
 - **T.I (PJ) · MK Academy**: suporte técnico a várias filiais, manutenção, configuração de sistemas e criação de soluções internas
 - **Marketing · Ortobom**: criação de conteúdo, peças visuais e campanhas de divulgação
@@ -175,6 +187,14 @@ Crio sistemas internos, sites e interfaces que unem **programação, design e ma
 **Front-end**
 
 <img src="assets/skills/frontend.svg" alt="React, Vite, Tailwind CSS, three.js, Framer Motion, GSAP e Leaflet" height="48" />
+
+**Mobile (Android & iOS)**
+
+<img src="assets/skills/mobile.svg" alt="Android Studio, iOS, Kotlin, Java, Swift, React, Capacitor, Xcode, Gradle, Firebase, Google Play e App Store" height="48" />
+
+- **Linguagens:** Kotlin, Java, Swift, JavaScript e TypeScript
+- **Desenvolvimento:** apps híbridos com React + Capacitor e integração com recursos nativos (push, armazenamento seguro, deep links, status bar, teclado, splash, rede)
+- **Gestão e lançamento:** planejamento de versões, builds assinados (APK/AAB e IPA), Google Play Console, App Store Connect, TestFlight, ficha da loja, política de privacidade e LGPD
 
 **Back-end & Banco de Dados**
 
@@ -215,7 +235,7 @@ Práticas que aplico nos sistemas que desenvolvo:
 - **Segredos e dados:** credenciais só em `.env` (fora do Git), `.env.example` documentado e dados reais, uploads e backups fora do repositório
 - **Deploy seguro:** HTTPS, deploy atômico (sem misturar arquivos de versões diferentes) e backup do banco antes de cada publicação
 
-**Áreas que conecto no dia a dia:** front-end, back-end, sistemas internos, suporte técnico, redes, automação, design gráfico, UI/UX, branding, marketing digital, e-commerce e importação.
+**Áreas que conecto no dia a dia:** front-end, back-end, apps mobile, sistemas internos, suporte técnico, redes, automação, design gráfico, UI/UX, branding, marketing digital, e-commerce e importação.
 
 <br>
 

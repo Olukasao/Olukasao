@@ -51,6 +51,10 @@ CUSTOM = {
   "ssh": luc("square-terminal", "#4FD1C5", 170),
   "vps": luc("server", "#A78BFA", 170),
   "vegas": si("vegas", "FFFFFF", 200),
+  "capacitor": si("capacitor", "119EFF", 150),
+  "xcode": si("xcode", "147EFB", 150),
+  "googleplay": si("googleplay", "34A853", 140),
+  "appstore": si("appstore", "0D96F6", 150),
 }
 
 def icon(name):

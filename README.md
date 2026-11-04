@@ -139,6 +139,7 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
         Painel de NOC para a equipe de campo: agenda de ordens de serviço, turnos e ausências, GPS dos técnicos em tempo real, mapa de chamados com geocodificação automática, sugestão e comparação de rotas e indicadores de chamados críticos.
       </p>
       <p><strong>Stack:</strong> Node.js · Express · Socket.IO · MariaDB · Leaflet · migrations SQL · Playwright</p>
+      <p><a href="https://github.com/Olukasao/Agenda-de-tecnicos">Ver repositório</a></p>
     </td>
   </tr>
   <tr>

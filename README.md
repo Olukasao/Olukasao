@@ -44,6 +44,16 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
 <table>
   <tr>
     <td>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Paleta" width="24" height="24" align="center" /> Portfólio interativo · Code. Design. Intelligence.</h4>
+      <p>
+        Este portfólio como um site cinematográfico: tipografia cinética com eixo de largura variável, câmera fixa percorrendo os projetos, cena em three.js e estudos de caso em português e inglês. Reúne <strong>demos funcionando no navegador</strong> (Workscape, chat interno, agenda de técnicos, site e app da AcessaNet e o FigureBox Planner) e um assistente, o "Pergunte ao portfólio", que responde com base no conteúdo do próprio site e, com chave de API, usa um LLM.
+      </p>
+      <p><strong>Stack:</strong> React 19 · TypeScript · Vite · GSAP/ScrollTrigger · Lenis · three.js · Express · Anthropic SDK</p>
+      <p><a href="https://landing-page-lucas-soares.vercel.app/">Ver site</a> · <a href="https://github.com/Olukasao/Curriculo-Interativo">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Caixa" width="24" height="24" align="center" /> FigureBox Planner · Editor 2D e 3D de empacotamento</h4>
       <p>
         Editor visual para colecionadores que enviam figures em caixas de transportadora. Posicione as embalagens na vista superior ou no 3D e o app valida limites, colisões e apoio para empilhar, sugere a caixa e gera a <strong>lista de embalagem em PDF</strong> com a ordem de embalar. O <strong>Box Mockup Studio</strong> cria a caixa 3D a partir das suas fotos (com correção de perspectiva) e exporta PNG, JSON, ZIP e GLB. Tem ainda um quarto 3D editável com modo exposição. Roda 100% no navegador, sem backend, com 151 testes automatizados.

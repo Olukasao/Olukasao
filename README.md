@@ -44,7 +44,7 @@ Crio sistemas internos, sites, **apps mobile (Android e iPhone)** e interfaces q
 <table>
   <tr>
     <td>
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Paleta" width="24" height="24" align="center" /> Portfólio interativo · Code. Design. Intelligence.</h4>
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Paleta" width="24" height="24" align="center" /> Portfólio interativo · Code. Design. Intelligence.</h4>
       <p>
         Este portfólio como um site cinematográfico: tipografia cinética com eixo de largura variável, câmera fixa percorrendo os projetos, cena em three.js e estudos de caso em português e inglês. Reúne <strong>demos funcionando no navegador</strong> (Workscape, chat interno, agenda de técnicos, site e app da AcessaNet e o FigureBox Planner) e um assistente, o "Pergunte ao portfólio", que responde com base no conteúdo do próprio site e, com chave de API, usa um LLM.
       </p>
